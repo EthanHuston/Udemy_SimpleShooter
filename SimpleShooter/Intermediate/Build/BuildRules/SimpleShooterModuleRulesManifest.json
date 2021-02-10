@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Ethan Huston\\source\\repos\\EthanHuston\\Udemy_SimpleShooter\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.Build.cs",
+		"C:\\Users\\Ethan Huston\\source\\repos\\EthanHuston\\Udemy_SimpleShooter\\SimpleShooter\\Source\\SimpleShooter.Target.cs",
+		"C:\\Users\\Ethan Huston\\source\\repos\\EthanHuston\\Udemy_SimpleShooter\\SimpleShooter\\Source\\SimpleShooterEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}
