@@ -1,0 +1,1073 @@
+﻿Log file open, 02/10/21 10:24:12
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SimpleShooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.241013
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Umarian -epicuserid=c2f338ebceed45aeaf98a451205991c5 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.02.10-15.24.13:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.02.10-15.24.13:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.02.10-15.24.13:039][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.02.10-15.24.13:054][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.10-15.24.13:054][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.10-15.24.13:055][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.10-15.24.13:055][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.10-15.24.13:055][  0]LogHAL: Display: Platform has ~ 16 GB [17108389888 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.10-15.24.13:055][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.10-15.24.13:055][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.10-15.24.13:055][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.10-15.24.13:056][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.02.10-15.24.13:056][  0]LogInit: Computer: ETHANS-PC
+[2021.02.10-15.24.13:056][  0]LogInit: User: EthanHuston
+[2021.02.10-15.24.13:056][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.02.10-15.24.13:056][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.10-15.24.13:057][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.02.10-15.24.13:057][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.10-15.24.13:057][  0]LogMemory: Process Physical Memory: 132.85 MB used, 132.86 MB peak
+[2021.02.10-15.24.13:057][  0]LogMemory: Process Virtual Memory: 110.19 MB used, 110.19 MB peak
+[2021.02.10-15.24.13:057][  0]LogMemory: Physical Memory: 9141.77 MB used,  7174.07 MB free, 16315.83 MB total
+[2021.02.10-15.24.13:057][  0]LogMemory: Virtual Memory: 134212600.00 MB used,  5126.13 MB free, 134217728.00 MB total
+[2021.02.10-15.24.13:515][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.10-15.24.13:537][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.10-15.24.13:538][  0]LogInit: Using OS detected language (en-US).
+[2021.02.10-15.24.13:538][  0]LogInit: Using OS detected locale (en-US).
+[2021.02.10-15.24.13:543][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.10-15.24.13:725][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.10-15.24.13:734][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.10-15.24.13:777][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.10-15.24.13:777][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.10-15.24.13:939][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.10-15.24.13:939][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.10-15.24.13:939][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.10-15.24.13:939][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.10-15.24.13:994][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2021.02.10-15.24.13:994][  0]LogD3D11RHI:       8171/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2021.02.10-15.24.13:997][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.10-15.24.13:997][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.10-15.24.13:997][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.10-15.24.14:006][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.10-15.24.14:007][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2021.02.10-15.24.14:007][  0]LogWindows: EnumDisplayDevices:
+[2021.02.10-15.24.14:007][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:1 D:1)
+[2021.02.10-15.24.14:007][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:0 D:1)
+[2021.02.10-15.24.14:007][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.02.10-15.24.14:008][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.02.10-15.24.14:008][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.02.10-15.24.14:008][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.02.10-15.24.14:009][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.02.10-15.24.14:009][  0]LogWindows:    7. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.02.10-15.24.14:009][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.02.10-15.24.14:009][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2021.02.10-15.24.14:009][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.11.3 (internal:27.20.14501.24001, unified:27.20.14501.24001)
+[2021.02.10-15.24.14:009][  0]LogD3D11RHI:      Driver Date: 11-25-2020
+[2021.02.10-15.24.14:009][  0]LogRHI: Texture pool is 5182 MB (70% of 7403 MB)
+[2021.02.10-15.24.14:080][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.10-15.24.14:080][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.10-15.24.14:080][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.10-15.24.14:093][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2021.02.10-15.24.14:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.10-15.24.14:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.10-15.24.14:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.10-15.24.14:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.10-15.24.14:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.10-15.24.14:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.10-15.24.14:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.10-15.24.14:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.10-15.24.14:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.10-15.24.14:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.10-15.24.14:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.10-15.24.14:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.10-15.24.14:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.10-15.24.14:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.10-15.24.14:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.10-15.24.14:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.10-15.24.14:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.10-15.24.14:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.10-15.24.14:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.10-15.24.14:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.10-15.24.14:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.10-15.24.14:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.10-15.24.14:552][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.02.10-15.24.14:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.02.10-15.24.14:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.02.10-15.24.14:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.02.10-15.24.14:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.10-15.24.14:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.10-15.24.14:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.10-15.24.14:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.10-15.24.14:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.10-15.24.14:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.10-15.24.14:653][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.10-15.24.14:661][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.10-15.24.14:720][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.02.10-15.24.14:720][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Intermediate/Shaders/WorkingDirectory/7784/).
+[2021.02.10-15.24.14:720][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ethan Huston/AppData/Local/Temp/UnrealShaderWorkingDir/67B51E8147EAF982C1F7EA9710F8E08F/'.
+[2021.02.10-15.24.14:720][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.10-15.24.14:720][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.10-15.24.15:572][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.10-15.24.15:629][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Ethan Huston/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.10-15.24.15:629][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ethan Huston/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.02.10-15.24.15:629][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.10-15.24.15:629][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.10-15.24.15:629][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.10-15.24.15:629][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.10-15.24.15:643][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.10-15.24.15:643][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.10-15.24.15:643][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.10-15.24.15:660][  0]LogDerivedDataCache: Speed tests for C:/Users/Ethan Huston/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.02.10-15.24.15:660][  0]LogDerivedDataCache: Display: Performance to C:/Users/Ethan Huston/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=202.48MBs, RandomWriteSpeed=80.20MBs. Assigned SpeedClass 'Local'
+[2021.02.10-15.24.15:671][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ethan Huston/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.10-15.24.15:671][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.10-15.24.15:671][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.10-15.24.15:733][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.10-15.24.15:733][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.10-15.24.15:769][  0]LogAssetRegistry: FAssetRegistry took 0.0163 seconds to start up
+[2021.02.10-15.24.16:059][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.10-15.24.16:059][  0]LogInit: Active device profile: [000001D78A186000][000001D78826B540 49] Windows
+[2021.02.10-15.24.16:059][  0]LogInit: Profiles: [000001D78A186000][000001D78826B540 49] Windows, [000001D78A152200][000001D788267680 49] WindowsNoEditor, [000001D78A187C00][000001D78826F7C0 49] WindowsServer, [000001D78A150600][000001D788273900 49] WindowsClient, [000001D78A184700][000001D78827BA80 49] IOS, [000001D78A153700][000001D7820F5C00 49] iPadAir, [000001D78A186D00][000001D7820F80C0 49] iPadAir2, [000001D78A0EF800][000001D782100380 49] IPadPro, [000001D78A0EF900][000001D7820FC3C0 49] iPadAir3, [000001D78A185500][000001D782104540 49] iPadAir4, [000001D78A0EE700][000001D7821086C0 49] iPadMini2, [000001D78A187700][000001D78210C840 49] iPadMini3, [000001D78A0EE500][000001D7821109C0 49] iPadMini4, [000001D78A184500][000001D782114B40 49] iPadMini5, [000001D78A14B000][000001D78211CE00 49] iPhone6, [000001D78A14B100][000001D782118E40 49] iPodTouch6, [000001D78A0EF600][000001D782125100 49] iPhone7, [000001D78A0EF500][000001D782121140 49] iPodTouch7, [000001D78A14A600][000001D7821292C0 49] iPhone5S, [000001D78A0ED600][000001D78212D440 49] iPhone6Plus, [000001D78A148F00][000001D788277580 49] iPhone6S, [000001D78A0ED900][000001D7821316C0 49] iPhone6SPlus, [000001D78A149700][000001D78A291800 49] iPhone7Plus, [000001D78A0EE900][000001D78A295940 49] iPhoneSE, [000001D78A14AE00][000001D78A29DAC0 49] iPhone8, [000001D78A0ECB00][000001D78A2A1C40 49] iPhone8Plus, [000001D78A14A200][000001D78A2A4100 49] iPhoneX, [000001D78A0EDB00][000001D78A2A8280 49] iPhoneXS, [000001D78A148500][000001D78A2AC400 49] iPhoneXSMax, [000001D78A0EC100][000001D78A2B0580 49] iPhoneXR, [000001D78A14B600][000001D78A2B4700 49] iPhone11, [000001D78A0EF100][000001D78A2B8880 49] iPhone11Pro, [000001D78A14AD00][000001D78A2BCA00 49] iPhone11ProMax, [000001D78A0EC700][000001D78A2C0B80 49] iPhoneSE2, [000001D78A14A400][000001D78A2C4D00 49] iPhone12Mini, [000001D78A0EE300][000001D78A2C8E80 49] iPhone12, [000001D78A148200][000001D78A2CD000 49] iPhone12Pro, [000001D78A0ECE00][000001D78A2D1180 49] iPhone12ProMax, [000001D78A148100][000001D78A2D5300 49] iPadPro105, [000001D78A0EFE00][000001D78A2D9480 49] iPadPro129, [000001D78A149000][000001D78A2DD600 49] iPadPro97, [000001D78A149E00][000001D78A299740 49] iPadPro2_129, [000001D78A150C00][000001D78A2E1880 49] iPad5, [000001D78A148900][000001D78A2E59C0 49] iPad6, [000001D78A151100][000001D78A2EDB40 49] iPad7, [000001D78A14AC00][000001D78A2F1CC0 49] iPad8, [000001D78A151E00][000001D78A2F4180 49] iPadPro11, [000001D78A148800][000001D78A2F8300 49] iPadPro2_11, [000001D78A153100][000001D78A2FC480 49] iPadPro3_129, [000001D78A149F00][000001D78A300600 49] iPadPro4_129, [000001D78A152900][000001D78A304780 49] AppleTV, [000001D78A149400][000001D78A308900 49] AppleTV4K, [000001D78A150F00][000001D78A30CA80 49] TVOS, [000001D78A149600][000001D78A310C00 49] Mac, [000001D78A151200][000001D78A314D80 49] MacClient, [000001D78A0ED100][000001D78A318F00 49] MacNoEditor, [000001D78A152400][000001D78A31D080 49] MacServer, [000001D78A0EF400][000001D78A321200 49] Linux, [000001D78A152C00][000001D78A325380 49] LinuxNoEditor, [000001D78A0EDC00][000001D78A329500 49] LinuxAArch64NoEditor, [000001D78A150200][000001D78A32D680 49] LinuxClient, [000001D78A0EDD00][000001D78A2E97C0 49] LinuxAArch64Client, [000001D78A153300][000001D78A331900 49] LinuxServer, [000001D78A0EE200][000001D78A335A40 49] LinuxAArch64Server, [000001D78A150700][000001D78A339B80 49] Android, [000001D78A0EF200][000001D78A341D00 49] Android_Low, [000001D78A153C00][000001D78A3441C0 49] Android_Mid, [000001D78A0ED800][000001D78A348340 49] Android_High, [000001D78A152600][000001D78A34C4C0 49] Android_Default, [000001D78A0EE600][000001D78A350640 49] Android_Adreno4xx, [000001D78A152D00][000001D78A3547C0 49] Android_Adreno5xx_Low, [000001D78A0EC200][000001D78A358940 49] Android_Adreno5xx, [000001D78A150300][000001D78A35CAC0 49] Android_Adreno6xx, [000001D78A0EF700][000001D78A360C40 49] Android_Adreno6xx_Vulkan, [000001D78A152500][000001D78A364DC0 49] Android_Mali_T6xx, [000001D78A0ECC00][000001D78A368F40 49] Android_Mali_T7xx, [000001D78A153400][000001D78A36D0C0 49] Android_Mali_T8xx, [000001D78A0ECD00][000001D78A371240 49] Android_Mali_G71, [000001D78A152000][000001D78A3753C0 49] Android_Mali_G72, [000001D78A0EFC00][000001D78A379540 49] Android_Mali_G72_Vulkan, [000001D78A153600][000001D78A37D6C0 49] Android_Mali_G76, [000001D78A0EE800][000001D78A33D800 49] Android_Mali_G76_Vulkan, [000001D78A150100][000001D78A381940 49] Android_Mali_G77, [000001D78A0EEF00][000001D78A385A80 49] Android_Mali_G77_Vulkan, [000001D78A152700][000001D78A389BC0 49] Android_Vulkan_SM5, [000001D78A0EC600][000001D78A391D40 49] Android_PowerVR_G6xxx, [000001D78A153A00][000001D78A394200 49] Android_PowerVR_GT7xxx, [000001D78A0EFB00][000001D78A398380 49] Android_PowerVR_GE8xxx, [000001D78A150900][000001D78A39C500 49] Android_PowerVR_GM9xxx, [000001D78A0EED00][000001D78A3A0680 49] Android_PowerVR_GM9xxx_Vulkan, [000001D78A153F00][000001D78A3A4800 49] Android_TegraK1, [000001D78A0ED300][000001D78A3A8980 49] Android_Unknown_Vulkan, [000001D78A153500][000001D78A3ACB00 49] Lumin, [000001D78A0EE400][000001D78A3B0C80 49] Lumin_Desktop, [000001D78A150A00][000001D78A3B4E00 49] HoloLens, 
+[2021.02.10-15.24.16:183][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.10-15.24.16:184][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.10-15.24.16:184][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.10-15.24.16:184][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.10-15.24.16:184][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.10-15.24.16:220][  0]LogNetVersion: SimpleShooter 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 196078098)
+[2021.02.10-15.24.16:696][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.02.10-15.24.16:778][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.080420 seconds
+[2021.02.10-15.24.16:785][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.02.10-15.24.16:785][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.02.10-15.24.16:785][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.10-15.24.17:170][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.10-15.24.17:202][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.10-15.24.17:375][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.10-15.24.17:375][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.10-15.24.17:403][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.10-15.24.17:492][  0]SourceControl: Source control is disabled
+[2021.02.10-15.24.17:492][  0]SourceControl: Source control is disabled
+[2021.02.10-15.24.17:495][  0]SourceControl: Source control is disabled
+[2021.02.10-15.24.17:497][  0]SourceControl: Source control is disabled
+[2021.02.10-15.24.17:503][  0]SourceControl: Source control is disabled
+[2021.02.10-15.24.17:508][  0]LogUProjectInfo: Found projects:
+[2021.02.10-15.24.17:633][  0]LogOcInput: OculusInput pre-init called
+[2021.02.10-15.24.17:645][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.10-15.24.17:645][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.10-15.24.17:653][  0]LogCollectionManager: Loaded 0 collections in 0.001551 seconds
+[2021.02.10-15.24.17:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Collections/' took 0.00s
+[2021.02.10-15.24.17:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Developers/EthanHuston/Collections/' took 0.00s
+[2021.02.10-15.24.17:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Collections/' took 0.00s
+[2021.02.10-15.24.17:708][  0]LogEngine: Initializing Engine...
+[2021.02.10-15.24.17:710][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.10-15.24.17:710][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.10-15.24.17:711][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.10-15.24.17:804][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.10-15.24.17:811][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.10-15.24.17:827][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.02.10-15.24.17:830][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.02.10-15.24.17:830][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.02.10-15.24.17:830][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-15.24.17:830][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-15.24.17:830][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-15.24.17:830][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-15.24.17:830][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-15.24.17:830][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-15.24.17:830][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-15.24.17:830][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-15.24.17:830][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-15.24.17:830][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-15.24.17:841][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-15.24.17:841][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-15.24.17:864][  0]LogAudioMixer: Display: Using Audio Device 3 - Sceptre L24 (AMD High Definition Audio Device)
+[2021.02.10-15.24.17:868][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-15.24.17:869][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-15.24.17:869][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-15.24.17:870][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-15.24.17:870][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.10-15.24.17:870][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.10-15.24.17:871][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.10-15.24.17:871][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.10-15.24.17:871][  0]LogInit: FAudioDevice initialized.
+[2021.02.10-15.24.17:871][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.02.10-15.24.17:871][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.10-15.24.17:919][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/Ethan Huston/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.10-15.24.17:922][  0]LogInit: Texture streaming: Enabled
+[2021.02.10-15.24.17:933][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.02.10-15.24.17:937][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.10-15.24.17:937][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.10-15.24.17:939][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.10-15.24.17:962][  0]LogInit: Transaction tracking system initialized
+[2021.02.10-15.24.17:982][  0]BlueprintLog: New page: Editor Load
+[2021.02.10-15.24.18:073][  0]LocalizationService: Localization service is disabled
+[2021.02.10-15.24.18:099][  0]TimingProfiler: Initialize
+[2021.02.10-15.24.18:099][  0]TimingProfiler: OnSessionChanged
+[2021.02.10-15.24.18:099][  0]LoadingProfiler: Initialize
+[2021.02.10-15.24.18:099][  0]LoadingProfiler: OnSessionChanged
+[2021.02.10-15.24.18:099][  0]NetworkingProfiler: Initialize
+[2021.02.10-15.24.18:099][  0]NetworkingProfiler: OnSessionChanged
+[2021.02.10-15.24.18:099][  0]MemoryProfiler: Initialize
+[2021.02.10-15.24.18:099][  0]MemoryProfiler: OnSessionChanged
+[2021.02.10-15.24.18:265][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.02.10-15.24.18:265][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.10-15.24.18:270][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/' took 0.00s
+[2021.02.10-15.24.18:538][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.02.10-15.24.18:548][  0]SourceControl: Source control is disabled
+[2021.02.10-15.24.18:548][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.391
+[2021.02.10-15.24.18:550][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.02.10-15.24.18:551][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.10-15.24.18:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.18:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.10-15.24.18:554][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.02.10-15.24.18:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.02.10-15.24.18:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.02.10-15.24.18:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.02.10-15.24.18:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.02.10-15.24.18:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.02.10-15.24.18:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.02.10-15.24.18:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.02.10-15.24.18:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.02.10-15.24.18:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.02.10-15.24.18:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.02.10-15.24.18:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.02.10-15.24.18:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.02.10-15.24.18:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.02.10-15.24.18:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.02.10-15.24.18:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.02.10-15.24.18:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.02.10-15.24.18:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.02.10-15.24.18:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Fire01.uasset"
+[2021.02.10-15.24.18:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.02.10-15.24.18:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.02.10-15.24.18:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.02.10-15.24.18:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Light01.uasset"
+[2021.02.10-15.24.18:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.02.10-15.24.18:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Light02.uasset"
+[2021.02.10-15.24.18:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.02.10-15.24.18:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.02.10-15.24.18:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.02.10-15.24.18:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.02.10-15.24.18:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.02.10-15.24.18:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.02.10-15.24.18:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.02.10-15.24.18:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.02.10-15.24.18:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.02.10-15.24.18:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Steam01.uasset"
+[2021.02.10-15.24.18:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.02.10-15.24.18:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.02.10-15.24.18:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.02.10-15.24.18:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.02.10-15.24.18:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.02.10-15.24.18:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.02.10-15.24.18:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.02.10-15.24.18:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.02.10-15.24.18:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.02.10-15.24.18:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.02.10-15.24.18:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.02.10-15.24.18:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.02.10-15.24.18:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.02.10-15.24.18:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.02.10-15.24.19:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.02.10-15.24.19:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.02.10-15.24.19:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.02.10-15.24.19:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.02.10-15.24.19:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.02.10-15.24.19:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.02.10-15.24.19:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.02.10-15.24.19:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.02.10-15.24.19:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Maps/StarterMap.umap"
+[2021.02.10-15.24.19:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.02.10-15.24.19:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.02.10-15.24.19:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.02.10-15.24.19:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.02.10-15.24.19:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.02.10-15.24.19:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.02.10-15.24.19:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.02.10-15.24.19:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.02.10-15.24.19:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.02.10-15.24.19:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.02.10-15.24.19:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.02.10-15.24.19:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.02.10-15.24.19:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.02.10-15.24.19:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.02.10-15.24.19:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.02.10-15.24.19:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.02.10-15.24.19:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.02.10-15.24.19:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.02.10-15.24.19:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.02.10-15.24.19:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.02.10-15.24.19:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.02.10-15.24.19:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.02.10-15.24.19:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.02.10-15.24.19:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.02.10-15.24.19:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.02.10-15.24.19:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.02.10-15.24.19:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.02.10-15.24.19:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.02.10-15.24.19:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.02.10-15.24.19:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.02.10-15.24.19:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.02.10-15.24.19:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.02.10-15.24.19:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.02.10-15.24.19:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.02.10-15.24.19:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.02.10-15.24.19:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.02.10-15.24.19:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.02.10-15.24.19:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.02.10-15.24.19:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.02.10-15.24.19:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.02.10-15.24.19:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.02.10-15.24.19:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.02.10-15.24.19:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.02.10-15.24.19:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.02.10-15.24.19:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.02.10-15.24.19:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.02.10-15.24.19:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.02.10-15.24.19:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.02.10-15.24.19:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.02.10-15.24.19:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.02.10-15.24.19:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.02.10-15.24.19:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.02.10-15.24.19:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.02.10-15.24.19:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.02.10-15.24.19:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.02.10-15.24.19:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.02.10-15.24.19:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.02.10-15.24.19:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.02.10-15.24.19:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.02.10-15.24.19:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.02.10-15.24.19:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.02.10-15.24.19:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.02.10-15.24.19:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.02.10-15.24.19:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.02.10-15.24.19:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.02.10-15.24.19:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_Door.uasset"
+[2021.02.10-15.24.19:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.02.10-15.24.19:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.02.10-15.24.19:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.02.10-15.24.19:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.02.10-15.24.19:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.02.10-15.24.19:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.02.10-15.24.19:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.02.10-15.24.19:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.02.10-15.24.19:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.02.10-15.24.19:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.02.10-15.24.19:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.02.10-15.24.19:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.02.10-15.24.19:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.02.10-15.24.19:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.02.10-15.24.19:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.02.10-15.24.19:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.02.10-15.24.19:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.02.10-15.24.20:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.02.10-15.24.20:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.02.10-15.24.20:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.02.10-15.24.20:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.02.10-15.24.20:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.02.10-15.24.20:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.02.10-15.24.20:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.02.10-15.24.20:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.02.10-15.24.20:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.02.10-15.24.20:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.02.10-15.24.20:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.02.10-15.24.20:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.02.10-15.24.20:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.02.10-15.24.20:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.02.10-15.24.20:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.02.10-15.24.20:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.02.10-15.24.20:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.02.10-15.24.20:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.02.10-15.24.20:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.02.10-15.24.20:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.02.10-15.24.20:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.02.10-15.24.20:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.02.10-15.24.20:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.02.10-15.24.20:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.02.10-15.24.20:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.02.10-15.24.20:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.02.10-15.24.20:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.02.10-15.24.20:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.02.10-15.24.20:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.02.10-15.24.20:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.02.10-15.24.20:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.02.10-15.24.20:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.02.10-15.24.20:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.02.10-15.24.20:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.02.10-15.24.20:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.02.10-15.24.20:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.02.10-15.24.20:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.02.10-15.24.20:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.02.10-15.24.20:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.02.10-15.24.20:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.02.10-15.24.20:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.02.10-15.24.20:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.02.10-15.24.20:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.02.10-15.24.20:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.02.10-15.24.20:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.02.10-15.24.20:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.02.10-15.24.20:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.02.10-15.24.20:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.02.10-15.24.20:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.02.10-15.24.20:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.02.10-15.24.20:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.02.10-15.24.20:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.02.10-15.24.20:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.02.10-15.24.20:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.02.10-15.24.20:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.02.10-15.24.20:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.02.10-15.24.20:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.02.10-15.24.20:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.02.10-15.24.20:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.02.10-15.24.20:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.02.10-15.24.20:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.02.10-15.24.20:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.02.10-15.24.20:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.02.10-15.24.20:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.02.10-15.24.20:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.02.10-15.24.20:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.02.10-15.24.20:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.02.10-15.24.20:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.02.10-15.24.20:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.02.10-15.24.20:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.02.10-15.24.20:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.02.10-15.24.20:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.02.10-15.24.20:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.02.10-15.24.20:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.02.10-15.24.20:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.02.10-15.24.20:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.02.10-15.24.20:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.02.10-15.24.20:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.02.10-15.24.21:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.02.10-15.24.21:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.02.10-15.24.21:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.02.10-15.24.21:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.02.10-15.24.21:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.02.10-15.24.21:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.02.10-15.24.21:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.02.10-15.24.21:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.02.10-15.24.21:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.02.10-15.24.21:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.02.10-15.24.21:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.02.10-15.24.21:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.02.10-15.24.21:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.02.10-15.24.21:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.02.10-15.24.21:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.02.10-15.24.21:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.02.10-15.24.21:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.02.10-15.24.21:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.02.10-15.24.21:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.02.10-15.24.21:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.02.10-15.24.21:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.02.10-15.24.21:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.02.10-15.24.21:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.02.10-15.24.21:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.02.10-15.24.21:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.02.10-15.24.21:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.02.10-15.24.21:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.02.10-15.24.21:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.02.10-15.24.21:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.02.10-15.24.21:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.02.10-15.24.21:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.02.10-15.24.21:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.02.10-15.24.21:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.02.10-15.24.21:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.02.10-15.24.21:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.02.10-15.24.21:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.02.10-15.24.21:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.02.10-15.24.21:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.02.10-15.24.21:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.02.10-15.24.21:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.02.10-15.24.21:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.02.10-15.24.21:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.02.10-15.24.21:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.02.10-15.24.21:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.02.10-15.24.21:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.02.10-15.24.21:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.02.10-15.24.21:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.02.10-15.24.21:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.02.10-15.24.21:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.02.10-15.24.21:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.02.10-15.24.21:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.02.10-15.24.21:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.02.10-15.24.21:740][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2021.02.10-15.24.21:741][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.02.10-15.24.21:775][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.02.10-15.24.21:955][  0]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Floor_400x400C3C928634D85A1FAE7BFAB93C0CC39C0.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.02.10-15.24.21:957][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.02.10-15.24.21:961][  0]LightingResults: New page: Lighting Build
+[2021.02.10-15.24.21:961][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-15.24.21:962][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-15.24.21:962][  0]MapCheck: New page: Map Check
+[2021.02.10-15.24.21:962][  0]LightingResults: New page: Lighting Build
+[2021.02.10-15.24.21:966][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.02.10-15.24.22:154][  0]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2021.02.10-15.24.22:158][  0]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2021.02.10-15.24.22:179][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.02.10-15.24.22:179][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.02.10-15.24.22:184][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.10-15.24.22:188][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.02.10-15.24.22:188][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.10-15.24.22:188][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2021.02.10-15.24.22:188][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.228
+[2021.02.10-15.24.22:190][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.032
+[2021.02.10-15.24.22:319][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-15.24.22:325][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-15.24.22:331][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-15.24.22:335][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-15.24.22:364][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3602 classes and 861 folders.
+[2021.02.10-15.24.22:368][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.10-15.24.22:369][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.10-15.24.22:369][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:370][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.10-15.24.22:370][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.02.10-15.24.22:370][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.10-15.24.22:370][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:370][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.10-15.24.22:370][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.02.10-15.24.22:370][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.02.10-15.24.22:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:371][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.02.10-15.24.22:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.02.10-15.24.22:371][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.10-15.24.22:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:371][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.10-15.24.22:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.02.10-15.24.22:371][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.10-15.24.22:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:371][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.10-15.24.22:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.02.10-15.24.22:372][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.10-15.24.22:372][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:372][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.10-15.24.22:372][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.02.10-15.24.22:372][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.10-15.24.22:372][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:372][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.10-15.24.22:372][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.02.10-15.24.22:373][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.10-15.24.22:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.10-15.24.22:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.02.10-15.24.22:373][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.10-15.24.22:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.10-15.24.22:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.02.10-15.24.22:374][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.10-15.24.22:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.10-15.24.22:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.02.10-15.24.22:375][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.10-15.24.22:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.10-15.24.22:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.02.10-15.24.22:375][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.10-15.24.22:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.10-15.24.22:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.02.10-15.24.22:376][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.10-15.24.22:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.10-15.24.22:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.02.10-15.24.22:376][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.10-15.24.22:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.10-15.24.22:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.02.10-15.24.22:377][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.10-15.24.22:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.10-15.24.22:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.02.10-15.24.22:377][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.10-15.24.22:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.10-15.24.22:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.02.10-15.24.22:378][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.10-15.24.22:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.10-15.24.22:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.02.10-15.24.22:378][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.10-15.24.22:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.10-15.24.22:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.02.10-15.24.22:379][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.10-15.24.22:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.10-15.24.22:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.02.10-15.24.22:379][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.10-15.24.22:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.10-15.24.22:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.02.10-15.24.22:379][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.10-15.24.22:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.10-15.24.22:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.02.10-15.24.22:380][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.10-15.24.22:380][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:380][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.10-15.24.22:380][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.02.10-15.24.22:380][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.02.10-15.24.22:380][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:380][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.02.10-15.24.22:380][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.02.10-15.24.22:381][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.10-15.24.22:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.10-15.24.22:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.02.10-15.24.22:381][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.10-15.24.22:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.10-15.24.22:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.02.10-15.24.22:382][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.10-15.24.22:382][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.10-15.24.22:382][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.10-15.24.22:382][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.02.10-15.24.22:415][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.10-15.24.22:423][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.02.10-15.24.22:469][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.10-15.24.22:471][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.10-15.24.22:480][  0]LogSlate: Took 0.005510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.10-15.24.22:481][  0]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.10-15.24.22:705][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.02.10-15.24.22:818][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.10-15.24.22:818][  0]LogLoad: (Engine Initialization) Total time: 10.66 seconds
+[2021.02.10-15.24.22:818][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.10-15.24.22:818][  0]LogInit: First time updating LLM stats...
+[2021.02.10-15.24.22:838][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.02.10-15.24.22:838][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.02.10-15.24.22:863][  0]LogAssetRegistry: Asset discovery search completed in 7.1077 seconds
+[2021.02.10-15.24.22:864][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.02.10-15.24.22:940][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.02.10-15.25.25:181][772]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
