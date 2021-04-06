@@ -792,3 +792,494 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.06-01.07.21:781][  0]LogContentStreaming: Texture pool size now 3000 MB
 [2021.04.06-01.07.21:825][  1]LogAssetRegistry: Asset discovery search completed in 21.2121 seconds
 [2021.04.06-01.07.21:827][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.04.06-01.08.17:716][503]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.06-01.08.17:805][503]LogSlate: Took 0.006087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.06-01.08.26:824][933]Candidate modules for hot reload:
+[2021.04.06-01.08.26:825][933]  SimpleShooter
+[2021.04.06-01.08.26:825][933]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,1898 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.06-01.08.50:584][933]CompilerResultsLog: New page: Compilation - Apr 5, 2021, 5:08:50 PM
+[2021.04.06-01.08.50:584][933]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.06-01.08.50:584][933]CompilerResultsLog: Creating makefile for SimpleShooterEditor (.uproject file is newer)
+[2021.04.06-01.08.50:584][933]CompilerResultsLog: Parsing headers for SimpleShooterEditor
+[2021.04.06-01.08.50:584][933]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\SimpleShooter.uproject" "C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\SimpleShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Ethan Huston\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.04.06-01.08.50:584][933]CompilerResultsLog: Reflection code generated for SimpleShooterEditor in 16.387635 seconds
+[2021.04.06-01.08.50:584][933]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.06-01.08.50:584][933]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.06-01.08.50:584][933]CompilerResultsLog: Building 9 actions with 12 processes...
+[2021.04.06-01.08.50:584][933]CompilerResultsLog:   [1/9] SimpleShooter.init.gen.cpp
+[2021.04.06-01.08.50:584][933]CompilerResultsLog:   [2/9] MyPawn.cpp
+[2021.04.06-01.08.50:584][933]CompilerResultsLog:   [3/9] SimpleShooterGameModeBase.cpp
+[2021.04.06-01.08.50:584][933]CompilerResultsLog:   [4/9] SimpleShooter.cpp
+[2021.04.06-01.08.50:584][933]CompilerResultsLog:   [5/9] MyPawn.gen.cpp
+[2021.04.06-01.08.50:584][933]CompilerResultsLog:   [6/9] SimpleShooterGameModeBase.gen.cpp
+[2021.04.06-01.08.50:584][933]CompilerResultsLog:   [7/9] UE4Editor-SimpleShooter-1898.lib
+[2021.04.06-01.08.50:584][933]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-1898.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-1898.exp
+[2021.04.06-01.08.50:584][933]CompilerResultsLog:   [8/9] UE4Editor-SimpleShooter-1898.dll
+[2021.04.06-01.08.50:584][933]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-1898.suppressed.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-1898.suppressed.exp
+[2021.04.06-01.08.50:584][933]CompilerResultsLog:   [9/9] SimpleShooterEditor.target
+[2021.04.06-01.08.50:584][933]CompilerResultsLog: Total time in Parallel executor: 5.11 seconds
+[2021.04.06-01.08.50:584][933]CompilerResultsLog: Total execution time: 23.66 seconds
+[2021.04.06-01.08.50:584][933]LogMainFrame: MainFrame: Module compiling took 23.786 seconds
+[2021.04.06-01.08.50:612][933]LogClass: Could not find existing class MyPawn in package /Script/SimpleShooter for HotReload, assuming new class
+[2021.04.06-01.08.50:615][933]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SimpleShooter' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.04.06-01.08.50:616][933]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.04.06-01.08.50:672][933]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3603 classes and 861 folders.
+[2021.04.06-01.08.50:672][933]Display: HotReload took 23.9s.
+[2021.04.06-01.08.50:673][933]Warning: HotReload operation took 23.9s.
+[2021.04.06-01.08.50:764][933]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.04.06-01.08.50:777][933]LogHotReload: New module detected: UE4Editor-SimpleShooter-1898.dll
+[2021.04.06-01.08.50:817][934]LogHotReload: Starting Hot-Reload from IDE
+[2021.04.06-01.08.50:867][934]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SimpleShooter' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.04.06-01.08.50:868][934]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.04.06-01.08.50:882][934]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0113 seconds. Added 3603 classes and 861 folders.
+[2021.04.06-01.08.50:891][934]Display: HotReload took  0.1s.
+[2021.04.06-01.09.14:003][756]Candidate modules for hot reload:
+[2021.04.06-01.09.14:003][756]  SimpleShooter
+[2021.04.06-01.09.14:004][756]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,8107 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.06-01.09.21:590][756]CompilerResultsLog: New page: Compilation - Apr 5, 2021, 5:09:21 PM
+[2021.04.06-01.09.21:590][756]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.06-01.09.21:590][756]CompilerResultsLog: Invalidating makefile for SimpleShooterEditor (source file added)
+[2021.04.06-01.09.21:590][756]CompilerResultsLog: Parsing headers for SimpleShooterEditor
+[2021.04.06-01.09.21:590][756]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\SimpleShooter.uproject" "C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\SimpleShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Ethan Huston\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.04.06-01.09.21:590][756]CompilerResultsLog: Reflection code generated for SimpleShooterEditor in 3.5380197 seconds
+[2021.04.06-01.09.21:590][756]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.06-01.09.21:590][756]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.06-01.09.21:590][756]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.04.06-01.09.21:590][756]CompilerResultsLog:   [1/6] SimpleShooter.init.gen.cpp
+[2021.04.06-01.09.21:590][756]CompilerResultsLog:   [2/6] ShooterCharacter.cpp
+[2021.04.06-01.09.21:590][756]CompilerResultsLog:   [3/6] ShooterCharacter.gen.cpp
+[2021.04.06-01.09.21:590][756]CompilerResultsLog:   [4/6] UE4Editor-SimpleShooter-8107.lib
+[2021.04.06-01.09.21:590][756]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-8107.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-8107.exp
+[2021.04.06-01.09.21:590][756]CompilerResultsLog:   [5/6] UE4Editor-SimpleShooter-8107.dll
+[2021.04.06-01.09.21:590][756]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-8107.suppressed.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-8107.suppressed.exp
+[2021.04.06-01.09.21:590][756]CompilerResultsLog:   [6/6] SimpleShooterEditor.target
+[2021.04.06-01.09.21:590][756]CompilerResultsLog: Total time in Parallel executor: 2.14 seconds
+[2021.04.06-01.09.21:590][756]CompilerResultsLog: Total execution time: 7.48 seconds
+[2021.04.06-01.09.21:590][756]LogMainFrame: MainFrame: Module compiling took 7.592 seconds
+[2021.04.06-01.09.21:626][756]LogClass: Could not find existing class ShooterCharacter in package /Script/SimpleShooter for HotReload, assuming new class
+[2021.04.06-01.09.21:629][756]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SimpleShooter' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2021.04.06-01.09.21:632][756]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.04.06-01.09.21:682][756]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0116 seconds. Added 3604 classes and 861 folders.
+[2021.04.06-01.09.21:682][756]Display: HotReload took  7.7s.
+[2021.04.06-01.09.21:685][756]Warning: HotReload operation took  7.7s.
+[2021.04.06-01.09.21:721][756]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.04.06-01.09.21:727][756]LogHotReload: New module detected: UE4Editor-SimpleShooter-8107.dll
+[2021.04.06-01.09.21:758][757]LogHotReload: Starting Hot-Reload from IDE
+[2021.04.06-01.09.21:815][757]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SimpleShooter' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2021.04.06-01.09.21:818][757]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.04.06-01.09.21:833][757]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0121 seconds. Added 3604 classes and 861 folders.
+[2021.04.06-01.09.21:840][757]Display: HotReload took  0.1s.
+[2021.04.06-01.09.35:308][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.06-01.09.36:575][880]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Map10588D30E468C8CCD7F715FAB5C08272A.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.umap'
+[2021.04.06-01.09.37:547][880]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Map1_BuiltData4CB9375F4BE1E5E40B28C892B9B8C400.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.uasset'
+[2021.04.06-01.09.37:582][880]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.06-01.09.37:582][880]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData
+[2021.04.06-01.09.37:582][880]LogContentValidation: Display: Validating World /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Map1
+[2021.04.06-01.10.08:053][104]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_MyPawn.BP_MyPawn
+[2021.04.06-01.10.08:633][104]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.04.06-01.10.09:500][104]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2021.04.06-01.10.13:028][289]LogRenderer: Reallocating scene render targets to support 1212x708 Format 10 NumSamples 1 (Frame:146).
+[2021.04.06-01.10.13:316][322]LogSlate: Window 'BP_MyPawn' being destroyed
+[2021.04.06-01.10.14:080][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MyPawn" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_MyPawn.uasset" SILENT=true
+[2021.04.06-01.10.14:088][407]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BP_MyPawn3FC108584EEC0100AF06ED9EFB2FBAF3.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_MyPawn.uasset'
+[2021.04.06-01.10.14:102][407]AssetCheck: New page: Asset Save: BP_MyPawn
+[2021.04.06-01.10.14:102][407]LogContentValidation: Display: Validating Blueprint /Game/BP_MyPawn.BP_MyPawn
+[2021.04.06-01.10.24:936][175]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_ShooterCharacter.BP_ShooterCharacter
+[2021.04.06-01.10.25:243][175]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2021.04.06-01.10.27:907][469]LogSlate: Took 0.005269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.06-01.10.37:649][576]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BP_ShooterCharacterF92BDCE64E05F41402FC80830C8FBE6C.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_ShooterCharacter.uasset'
+[2021.04.06-01.10.37:662][576]AssetCheck: New page: Asset Save: BP_ShooterCharacter
+[2021.04.06-01.10.37:662][576]LogContentValidation: Display: Validating Blueprint /Game/BP_ShooterCharacter.BP_ShooterCharacter
+[2021.04.06-01.13.27:598][189]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Textures/T_Wraith_UpperBody_Mask2.T_Wraith_UpperBody_Mask2 was invalid. The texture will be rebuild.
+[2021.04.06-01.13.27:598][189]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Textures/T_Wraith_Upperbody_RGBA.T_Wraith_Upperbody_RGBA was invalid. The texture will be rebuild.
+[2021.04.06-01.13.27:598][189]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Textures/T_Wraith_Gun_Mask2.T_Wraith_Gun_Mask2 was invalid. The texture will be rebuild.
+[2021.04.06-01.13.27:598][189]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Textures/T_Wraith_backpack_N_DEMO.T_Wraith_backpack_N_DEMO was invalid. The texture will be rebuild.
+[2021.04.06-01.13.27:598][189]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Textures/T_Wraith_Gun_RGB.T_Wraith_Gun_RGB was invalid. The texture will be rebuild.
+[2021.04.06-01.13.27:598][189]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Textures/T_Wraith_BackPackbody_RGBA.T_Wraith_BackPackbody_RGBA was invalid. The texture will be rebuild.
+[2021.04.06-01.13.27:598][189]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Materials/MLayer/T_TireRubber_R.T_TireRubber_R was invalid. The texture will be rebuild.
+[2021.04.06-01.13.27:598][189]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/AssetPacks/ParagonWraith/Characters/Global/MaterialLayers/Metal/T_Metal_Scratched_Circular_01_N.T_Metal_Scratched_Circular_01_N was invalid. The texture will be rebuild.
+[2021.04.06-01.13.27:598][189]LogTexture: Display: Building textures: T_Wraith_Gun_Mask2 (AutoDXT, 4096X4096)
+[2021.04.06-01.13.27:598][189]LogTexture: Display: Building textures: T_Wraith_UpperBody_Mask2 (AutoDXT, 4096X4096)
+[2021.04.06-01.13.27:598][189]LogTexture: Display: Building textures: T_Wraith_Body_Color_Overlay (AutoDXT, 4096X4096)
+[2021.04.06-01.13.27:598][189]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/AssetPacks/ParagonWraith/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise03.T_AtmosphericCloudNoise03 was invalid. The texture will be rebuild.
+[2021.04.06-01.13.27:598][189]LogTexture: Display: Building textures: T_Metal_Scratched_Circular_01_N (BC5, 2048X2048)
+[2021.04.06-01.13.27:598][189]LogTexture: Display: Building textures: T_TireRubber_R (AutoDXT, 4096X4096)
+[2021.04.06-01.13.27:598][189]LogTexture: Display: Building textures: T_AtmosphericCloudNoise03 (BGRA8, 2048X2048)
+[2021.04.06-01.13.27:598][189]LogTexture: Display: Building textures: T_Wraith_Gun_RGB (AutoDXT, 4096X4096)
+[2021.04.06-01.13.27:598][189]LogTexture: Display: Building textures: T_Wraith_backpack_N_DEMO (BC5, 4096X4096)
+[2021.04.06-01.13.27:598][189]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/AssetPacks/ParagonWraith/Characters/Global/MaterialFunctions/Textures/T_AtmosphericCloudNoise01.T_AtmosphericCloudNoise01 was invalid. The texture will be rebuild.
+[2021.04.06-01.13.27:598][189]LogTexture: Display: Building textures: T_Wraith_BackPackbody_RGBA (AutoDXT, 4096X4096)
+[2021.04.06-01.13.27:598][189]LogTexture: Display: Building textures: T_Wraith_Upperbody_RGBA (AutoDXT, 4096X4096)
+[2021.04.06-01.13.27:598][189]LogTexture: Display: Building textures: T_AtmosphericCloudNoise01 (AutoDXT, 2048X2048)
+[2021.04.06-01.13.27:598][189]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/AssetPacks/ParagonWraith/Characters/Global/MaterialLayers/Metal/T_Primer_Black_Metal2.T_Primer_Black_Metal2 was invalid. The texture will be rebuild.
+[2021.04.06-01.13.28:477][189]LogTexture: Display: Building textures: T_Primer_Black_Metal2 (AutoDXT, 2048X2048)
+[2021.04.06-01.14.18:436][746]BlueprintLog: New page: Compile BP_ShooterCharacter
+[2021.04.06-01.14.18:491][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.04.06-01.14.18:531][746]LogSlate: Took 0.007598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.06-01.14.18:901][784]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BP_ShooterCharacterA4B9BC7D4824BE2AA31CF79F115170FD.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_ShooterCharacter.uasset'
+[2021.04.06-01.14.18:928][784]AssetCheck: New page: Asset Save: BP_ShooterCharacter
+[2021.04.06-01.14.18:928][784]LogContentValidation: Display: Validating Blueprint /Game/BP_ShooterCharacter.BP_ShooterCharacter
+[2021.04.06-01.14.23:328][271]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BP_ShooterCharacterB29E8EB44163DB8C3D0CE495E656011A.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_ShooterCharacter.uasset'
+[2021.04.06-01.14.23:338][271]AssetCheck: New page: Asset Save: BP_ShooterCharacter
+[2021.04.06-01.14.23:338][271]LogContentValidation: Display: Validating Blueprint /Game/BP_ShooterCharacter.BP_ShooterCharacter
+[2021.04.06-01.16.09:904][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.04.06-01.16.18:569][649]LogContentBrowser: Attempting asset rename: Map1 -> Sandbox
+[2021.04.06-01.16.18:605][649]LogMetaData: Removing '/Game/Sandbox.SKEL_Sandbox_C' ref from Metadata '/Game/Map1.PackageMetaData'
+[2021.04.06-01.16.18:605][649]LogMetaData: Removing '/Game/Sandbox.Sandbox_C' ref from Metadata '/Game/Map1.PackageMetaData'
+[2021.04.06-01.16.18:605][649]LogMetaData: Removing '/Game/Sandbox.SKEL_Sandbox_C:ReceiveBeginPlay' ref from Metadata '/Game/Map1.PackageMetaData'
+[2021.04.06-01.16.18:605][649]LogMetaData: Removing '/Game/Sandbox.SKEL_Sandbox_C:ReceiveTick' ref from Metadata '/Game/Map1.PackageMetaData'
+[2021.04.06-01.16.18:864][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.04.06-01.16.19:940][649]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/SandboxEE3A5F1346773CC22D7D8C96C480C0D3.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox.umap'
+[2021.04.06-01.16.20:177][649]LogFileHelpers: Saving map 'Sandbox' took 1.547
+[2021.04.06-01.16.20:275][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.04.06-01.16.20:303][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.06-01.16.20:320][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.06-01.16.20:474][649]AssetCheck: New page: Asset Save: Sandbox
+[2021.04.06-01.16.20:474][649]LogContentValidation: Display: Validating World /Game/Sandbox.Sandbox
+[2021.04.06-01.16.30:576][413]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.06-01.16.47:437][456]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.06-01.16.47:447][456]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.06-01.16.48:552][526]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.04.06-01.16.49:654][526]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Map160FBCE8D4C0A4EA0ADEDA69762270B1B.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.umap'
+[2021.04.06-01.16.50:274][526]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Map1_BuiltDataAA913B59495C2FE3A14F8AB90F60AB8B.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.uasset'
+[2021.04.06-01.16.50:293][526]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.06-01.16.50:293][526]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1_BuiltData.Map1_BuiltData
+[2021.04.06-01.16.50:293][526]LogContentValidation: Display: Validating World /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Map1
+[2021.04.06-01.16.55:312][837]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.04.06-01.16.55:333][837]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.04.06-01.16.55:346][837]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.04.06-01.17.01:401][162]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ShooterGameMode
+[2021.04.06-01.17.01:407][162]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.04.06-01.17.02:757][237]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_ShooterGameMode.BP_ShooterGameMode
+[2021.04.06-01.17.04:244][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ShooterGameMode" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_ShooterGameMode.uasset" SILENT=true
+[2021.04.06-01.17.04:252][356]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BP_ShooterGameMode485A70124E968334C6F8A7A7F9E76B35.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_ShooterGameMode.uasset'
+[2021.04.06-01.17.04:264][356]AssetCheck: New page: Asset Save: BP_ShooterGameMode
+[2021.04.06-01.17.04:265][356]LogContentValidation: Display: Validating Blueprint /Game/BP_ShooterGameMode.BP_ShooterGameMode
+[2021.04.06-01.17.09:505][970]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.06-01.17.16:966][828]BlueprintLog: New page: Compile BP_ShooterGameMode
+[2021.04.06-01.17.17:019][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.04.06-01.17.17:334][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ShooterGameMode" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_ShooterGameMode.uasset" SILENT=true
+[2021.04.06-01.17.17:342][860]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BP_ShooterGameMode7005EF5A46DABFF34DB6FBBDAAAA1512.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_ShooterGameMode.uasset'
+[2021.04.06-01.17.17:352][860]AssetCheck: New page: Asset Save: BP_ShooterGameMode
+[2021.04.06-01.17.17:352][860]LogContentValidation: Display: Validating Blueprint /Game/BP_ShooterGameMode.BP_ShooterGameMode
+[2021.04.06-01.17.31:480][384]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.06-01.17.34:257][545]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.06-01.17.55:248][365]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.06-01.17.55:252][365]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.06-01.17.56:703][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.04.06-01.17.56:724][456]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Sandbox.Sandbox
+[2021.04.06-01.17.56:724][456]Cmd: MAP LOAD FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.06-01.17.56:724][456]LightingResults: New page: Lighting Build
+[2021.04.06-01.17.56:724][456]LoadErrors: New page: Loading map: Sandbox.umap
+[2021.04.06-01.17.56:742][456]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.17.56:743][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.17.56:745][456]MapCheck: New page: Map Check
+[2021.04.06-01.17.56:745][456]LightingResults: New page: Lighting Build
+[2021.04.06-01.17.56:769][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.06-01.17.56:816][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.04.06-01.17.56:821][456]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sandbox'.
+[2021.04.06-01.17.56:972][456]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.06-01.17.56:972][456]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.06-01.17.57:081][456]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.04.06-01.17.57:085][456]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.06-01.17.57:086][456]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.473ms to complete.
+[2021.04.06-01.17.57:086][456]LogFileHelpers: Loading map 'Sandbox' took 0.362
+[2021.04.06-01.18.27:130][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.06-01.18.28:213][652]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Sandbox797E94F344B95639DFC3B2ADA27D3DE2.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox.umap'
+[2021.04.06-01.18.28:248][652]AssetCheck: New page: Asset Save: Sandbox
+[2021.04.06-01.18.28:248][652]LogContentValidation: Display: Validating World /Game/Sandbox.Sandbox
+[2021.04.06-01.19.30:184][187]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.06-01.19.30:193][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.06-01.19.30:193][187]PIE: New page: PIE session: Sandbox (Apr 5, 2021, 5:19:30 PM)
+[2021.04.06-01.19.30:197][187]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.06-01.19.30:198][187]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.06-01.19.30:199][187]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.06-01.19.30:398][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.199781s)
+[2021.04.06-01.19.30:400][187]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.06-01.19.30:401][187]LogPlayLevel: PIE: World Init took: (0.001908s)
+[2021.04.06-01.19.30:401][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.202417s)
+[2021.04.06-01.19.30:428][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.04.06-01.19.30:433][187]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.06-01.19.30:433][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.06-01.19.30:433][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.06-01.19.30:433][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.06-01.19.30:433][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.06-01.19.30:433][187]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.06-01.19.30:433][187]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.06-01.19.30:433][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.06-01.19.30:433][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.06-01.19.30:433][187]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.06-01.19.30:433][187]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.06-01.19.30:439][187]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.06-01.19.30:439][187]LogAudioMixer: Display: 1: FrontRight
+[2021.04.06-01.19.30:439][187]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.06-01.19.30:439][187]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.06-01.19.30:439][187]LogAudioMixer: Display: 4: BackLeft
+[2021.04.06-01.19.30:439][187]LogAudioMixer: Display: 5: BackRight
+[2021.04.06-01.19.30:439][187]LogAudioMixer: Display: 6: SideLeft
+[2021.04.06-01.19.30:439][187]LogAudioMixer: Display: 7: SideRight
+[2021.04.06-01.19.30:481][187]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.06-01.19.30:482][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.06-01.19.30:482][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.06-01.19.30:482][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.06-01.19.30:482][187]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.06-01.19.30:482][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.06-01.19.30:482][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.06-01.19.30:494][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.06-01.19.30:494][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.06-01.19.30:494][187]LogInit: FAudioDevice initialized.
+[2021.04.06-01.19.30:494][187]LogAudio: Display: Audio Device (ID: 2) registered with world 'Sandbox'.
+[2021.04.06-01.19.30:502][187]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.04.06-01.19.30:553][187]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.05-21.19.30
+[2021.04.06-01.19.30:563][187]LogWorld: Bringing up level for play took: 0.055969
+[2021.04.06-01.19.30:564][187]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.04.06-01.19.30:576][187]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.04.06-01.19.30:583][187]PIE: Server logged in
+[2021.04.06-01.19.30:585][187]PIE: Play in editor total start time 0.396 seconds.
+[2021.04.06-01.19.48:654][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.19.48:654][381]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.06-01.19.48:657][381]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.19.48:667][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.19.48:678][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.06-01.19.48:688][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.19.48:715][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.19.48:726][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.06-01.19.48:728][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.06-01.19.48:778][381]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2021.04.06-01.19.48:810][382]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.04.06-01.19.53:620][447]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.04.06-01.19.54:705][447]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Sandbox5444B52D401571373BCBD296C4164D23.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox.umap'
+[2021.04.06-01.19.54:732][447]AssetCheck: New page: Asset Save: Sandbox
+[2021.04.06-01.19.54:733][447]LogContentValidation: Display: Validating World /Game/Sandbox.Sandbox
+[2021.04.06-01.19.58:114][631]MapCheck: New page: Map Check
+[2021.04.06-01.19.58:131][631]Cmd: MAP REBUILD ALLVISIBLE
+[2021.04.06-01.19.58:131][631]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.04.06-01.19.58:220][631]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=false
+[2021.04.06-01.19.58:470][631]LightingResults: New page: Lighting Build - Apr 5, 2021, 5:19:58 PM
+[2021.04.06-01.19.58:531][631]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.04.06-01.19.58:584][631]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.04.06-01.19.58:596][631]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.04.06-01.19.59:122][631]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.04.06-01.19.59:122][631]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8300
+[2021.04.06-01.20.05:760][631]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.04.06-01.20.05:760][631]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.04.06-01.20.05:760][631]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.04.06-01.20.05:760][631]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.04.06-01.20.05:760][631]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.04.06-01.20.06:176][631]LogEditorBuildUtils: Build time 0:08
+[2021.04.06-01.20.06:248][631]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2021.04.06-01.20.06:274][632]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.04.06-01.20.06:275][632]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.04.06-01.20.11:501][736]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.04.06-01.20.43:746][194]LightingResults: Warning: SM_IcePlane Object has wrapping UVs.
+[2021.04.06-01.20.47:102][343]Job is a success!
+[2021.04.06-01.20.47:325][344]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.045s
+[2021.04.06-01.20.47:325][344]LogVolumetricLightmapImport:      Indirection Texture 32x16x16 = 0.0Mb
+[2021.04.06-01.20.47:325][344]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2021.04.06-01.20.47:325][344]LogVolumetricLightmapImport:      Bricks at depth
+[2021.04.06-01.20.47:325][344]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2021.04.06-01.20.47:325][344]LogVolumetricLightmapImport:          1: 4.8% covering 11.7% of volume
+[2021.04.06-01.20.47:325][344]LogVolumetricLightmapImport:          2: 94.5% covering 3.6% of volume
+[2021.04.06-01.20.47:325][344]LogVolumetricLightmapImport:      Bricks in each level
+[2021.04.06-01.20.47:325][344]LogVolumetricLightmapImport:          Sandbox 			 311 bricks 	 100.0% (Persistent Level)
+[2021.04.06-01.20.47:964][344]LightingResults: Warning: SpotLight54 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.04.06-01.20.47:964][344]LightingResults: Warning: SpotLight53 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 256X256)
+[2021.04.06-01.20.49:030][344]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 256X256)
+[2021.04.06-01.20.49:031][344]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 512X512)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 512X512)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 512X512)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 512X512)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 256X256)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: HQ_Lightmap0_66 (AutoDXT, 128X128)
+[2021.04.06-01.20.49:032][344]LogTexture: Display: Building textures: LQ_Lightmap_0_66 (DXT1, 128X128)
+[2021.04.06-01.20.49:146][344]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X64)
+[2021.04.06-01.20.49:146][344]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X512)
+[2021.04.06-01.20.49:146][344]Lightmass on ETHANS-PC: 36.9 sec total, 4.16 sec importing, 1.85 sec setup, 11.1 sec photons, 19.8 sec processing, 0 ms extra exporting [2370/2370 mappings]. Threads: 3:38 min total, 1:51 min processing.
+[2021.04.06-01.20.49:158][344]LogStaticLightingSystem: Sandbox_BuiltData storing lightmap data for 2058 meshes in 70 LightmapResourceClusters (29.4 Meshes per cluster).
+[2021.04.06-01.20.49:232][344]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.04.06-01.20.49:387][344]LogStaticLightingSystem: Illumination: 50.8 sec (1.07 sec encoding lightmaps, 37 ms encoding shadowmaps)
+[2021.04.06-01.20.49:387][344]LogStaticLightingSystem: Lightmap texture memory:  10.8 MB (8.8 MB streaming, 2.0 MB non-streaming), 132 textures
+[2021.04.06-01.20.49:387][344]LogStaticLightingSystem: Shadowmap texture memory: 1.0 MB (0.3 MB streaming, 0.7 MB non-streaming), 2 textures
+[2021.04.06-01.20.49:811][344]DumpUnbuiltLightIteractions
+[2021.04.06-01.20.49:811][344]Lights with unbuilt interactions: 0
+[2021.04.06-01.20.49:811][344]
+[2021.04.06-01.20.49:811][344]Primitives with unbuilt interactions: 0
+[2021.04.06-01.20.50:944][344]LogTexture: Display: Building textures: NewReflectionComponentTexture68ECB941411C75EA1A32D5B8928B9B8C (BGRA8, 128X128)
+[2021.04.06-01.20.50:960][344]LogTexture: Display: Building textures: NewReflectionComponentTextureC10D2A6E446AF5AB630FAEA63C33E9C5 (BGRA8, 128X128)
+[2021.04.06-01.20.50:971][344]LogTexture: Display: Building textures: NewReflectionComponentTextureF69EF0D04E4C8CC573534DA2219C1CA5 (BGRA8, 128X128)
+[2021.04.06-01.20.50:983][344]LogTexture: Display: Building textures: NewReflectionComponentTexture4D2BB5BE43933FB7EC242783226CB7C7 (BGRA8, 128X128)
+[2021.04.06-01.20.50:994][344]LogTexture: Display: Building textures: NewReflectionComponentTexture937B048246A52ADCE1D932B5316689A2 (BGRA8, 128X128)
+[2021.04.06-01.20.51:005][344]LogTexture: Display: Building textures: NewReflectionComponentTextureABD1FFCF42B46F97496A6D9B28914306 (BGRA8, 128X128)
+[2021.04.06-01.20.51:016][344]LogTexture: Display: Building textures: NewReflectionComponentTexture0CBB6635427DBAFD4B09B6936F8818E6 (BGRA8, 128X128)
+[2021.04.06-01.20.51:026][344]LogTexture: Display: Building textures: NewReflectionComponentTextureE5100B1347D61429FD0E0AA2949034FE (BGRA8, 128X128)
+[2021.04.06-01.20.51:036][344]LogTexture: Display: Building textures: NewReflectionComponentTexture4D3D717F4609E7CB378F57AA50963E99 (BGRA8, 128X128)
+[2021.04.06-01.20.51:047][344]LogTexture: Display: Building textures: NewReflectionComponentTextureA1BF0CAB42DE4EB0DB0097B38C900AC9 (BGRA8, 128X128)
+[2021.04.06-01.20.51:057][344]LogTexture: Display: Building textures: NewReflectionComponentTextureB66C4DDC46D0578DA3A613AECE42D9F7 (BGRA8, 128X128)
+[2021.04.06-01.20.51:067][344]LogTexture: Display: Building textures: NewReflectionComponentTextureB678BFA64E8D1D04587182BF83EAF4B3 (BGRA8, 128X128)
+[2021.04.06-01.20.51:078][344]LogTexture: Display: Building textures: NewReflectionComponentTexture1EA9F8E74905B49B71B2E3ADD17E8D61 (BGRA8, 128X128)
+[2021.04.06-01.20.51:090][344]LogTexture: Display: Building textures: NewReflectionComponentTextureD83A2FD14DA7118BBED787891DF48511 (BGRA8, 128X128)
+[2021.04.06-01.20.51:104][344]LogTexture: Display: Building textures: NewReflectionComponentTextureA8C0647B49E1B0CABFFA88A5E07DFCC0 (BGRA8, 128X128)
+[2021.04.06-01.20.51:118][344]LogTexture: Display: Building textures: NewReflectionComponentTextureB6521C2C4611CE21175BBE9BEFE4F8AA (BGRA8, 128X128)
+[2021.04.06-01.20.51:131][344]LogTexture: Display: Building textures: NewReflectionComponentTextureA83DC1E24C38AA57F0A1C5B8A647E5BE (BGRA8, 128X128)
+[2021.04.06-01.20.51:146][344]LogTexture: Display: Building textures: NewReflectionComponentTexture251E94324BAA5894F0046086EA3B297E (BGRA8, 128X128)
+[2021.04.06-01.20.51:359][344]LogTexture: Display: Building textures: NewReflectionComponentTexture487B6D6A43D7C588517467A0D1F87C72 (BGRA8, 128X128)
+[2021.04.06-01.20.51:386][344]LogTexture: Display: Building textures: NewReflectionComponentTexture480B3A4C457C1A38DBD4E2BE7D88432D (BGRA8, 128X128)
+[2021.04.06-01.20.51:398][344]LogTexture: Display: Building textures: NewReflectionComponentTextureAB64842B4D39D7BF7EDB009AFC02EF76 (BGRA8, 128X128)
+[2021.04.06-01.20.51:411][344]LogTexture: Display: Building textures: NewReflectionComponentTextureA857B3724485D9A76BF0F08D40D92F5A (BGRA8, 128X128)
+[2021.04.06-01.20.51:424][344]LogTexture: Display: Building textures: NewReflectionComponentTexture3CB59DC7452275589C1A77892F5A2B4B (BGRA8, 128X128)
+[2021.04.06-01.20.51:435][344]LogTexture: Display: Building textures: NewReflectionComponentTextureE58B6C8E475B57FE7CD002BFCC88E172 (BGRA8, 128X128)
+[2021.04.06-01.20.51:448][344]LogTexture: Display: Building textures: NewReflectionComponentTextureD05B9E0042C8099DDA14A78006575726 (BGRA8, 128X128)
+[2021.04.06-01.20.51:460][344]LogTexture: Display: Building textures: NewReflectionComponentTexture3560B3EB47F000C797308F9097798D57 (BGRA8, 128X128)
+[2021.04.06-01.20.51:472][344]LogTexture: Display: Building textures: NewReflectionComponentTexture7E7ECDB04305F9389D0FB9983E4DEE91 (BGRA8, 128X128)
+[2021.04.06-01.20.51:484][344]LogTexture: Display: Building textures: NewReflectionComponentTextureA344BD0F43E410A5465BA8B9330693F9 (BGRA8, 128X128)
+[2021.04.06-01.20.51:497][344]LogTexture: Display: Building textures: NewReflectionComponentTextureB99946E4417CDE8B4872E7A714E8EC44 (BGRA8, 128X128)
+[2021.04.06-01.20.51:510][344]LogTexture: Display: Building textures: NewReflectionComponentTexture3DD59C3D42B6CDED7EF582A08CAAE21F (BGRA8, 128X128)
+[2021.04.06-01.20.51:523][344]LogTexture: Display: Building textures: NewReflectionComponentTextureD3D25FEC48742A59FBE85EAEA5A8B7F5 (BGRA8, 128X128)
+[2021.04.06-01.20.51:536][344]LogTexture: Display: Building textures: NewReflectionComponentTexture4D7AE9FD49D49BD2B408718801479DA7 (BGRA8, 128X128)
+[2021.04.06-01.20.51:550][344]LogTexture: Display: Building textures: NewReflectionComponentTextureE80D5DEA454766DB6250FFA297A83AB5 (BGRA8, 128X128)
+[2021.04.06-01.20.51:563][344]LogTexture: Display: Building textures: NewReflectionComponentTexture5100F9104B6C5DF36B7020AF5B37D784 (BGRA8, 128X128)
+[2021.04.06-01.20.51:766][344]LogTexture: Display: Building textures: NewReflectionComponentTexture357E3E894BD527906934F1832BE55507 (BGRA8, 128X128)
+[2021.04.06-01.20.51:791][344]LogTexture: Display: Building textures: NewReflectionComponentTextureD302F2BE43F0CBE6BB38A1BE30E0A66D (BGRA8, 128X128)
+[2021.04.06-01.20.51:803][344]LogTexture: Display: Building textures: NewReflectionComponentTextureC10A8CF64FE0F928C26DFAA793B93E58 (BGRA8, 128X128)
+[2021.04.06-01.20.52:699][345]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.04.06-01.20.52:699][345]MapCheck: New page: Sandbox - Apr 5, 2021, 5:20:52 PM
+[2021.04.06-01.20.52:707][345]MapCheck: Warning: DoorwayWire_A2_187 Collision enabled but StaticMesh (SM_DoorwayWire_A) has no simple or complex collision. 
+[2021.04.06-01.20.52:708][345]MapCheck: Warning: DoorwayWire_A3 Collision enabled but StaticMesh (SM_DoorwayWire_A) has no simple or complex collision. 
+[2021.04.06-01.20.52:710][345]MapCheck: Warning: S_GDC_Landscape_Peakmesh_01_31 Collision enabled but StaticMesh (SM_GDC_Landscape_Peakmesh_01) has no simple or complex collision. 
+[2021.04.06-01.20.52:710][345]MapCheck: Warning: S_GDC_Landscape_Peakmesh_2 Collision enabled but StaticMesh (SM_GDC_Landscape_Peakmesh_01) has no simple or complex collision. 
+[2021.04.06-01.20.52:710][345]MapCheck: Warning: S_GDC_Landscape_Peakmesh_3 Collision enabled but StaticMesh (SM_GDC_Landscape_Peakmesh_01) has no simple or complex collision. 
+[2021.04.06-01.20.52:710][345]MapCheck: Warning: S_GDC_Landscape_Peakmesh_36 Collision enabled but StaticMesh (SM_GDC_Landscape_Peakmesh_01) has no simple or complex collision. 
+[2021.04.06-01.20.52:711][345]MapCheck: Warning: IcePlane_2 Collision enabled but StaticMesh (SM_IcePlane) has no simple or complex collision. 
+[2021.04.06-01.20.52:711][345]MapCheck: Warning: S_GDC_Landscape_Peakmesh_5 Collision enabled but StaticMesh (SM_GDC_Landscape_Peakmesh_01) has no simple or complex collision. 
+[2021.04.06-01.20.52:711][345]MapCheck: Warning: S_GDC_Landscape_Peakmesh_6 Collision enabled but StaticMesh (SM_GDC_Landscape_Peakmesh_01) has no simple or complex collision. 
+[2021.04.06-01.20.52:713][345]MapCheck: Warning: Ceiling_Main_A8 Collision enabled but StaticMesh (SM_Windows_A_Glass) has no simple or complex collision. 
+[2021.04.06-01.20.52:713][345]MapCheck: Warning: Floor_Filler10 Collision enabled but StaticMesh (SM_Wall_Window_Pipe) has no simple or complex collision. 
+[2021.04.06-01.20.52:714][345]MapCheck: Warning: Floor_Center_A25 Collision enabled but StaticMesh (SM_Ceiling_Window_A_Glass) has no simple or complex collision. 
+[2021.04.06-01.20.52:714][345]MapCheck: Warning: Floor_Filler29 Collision enabled but StaticMesh (SM_Floor_Window_D) has no simple or complex collision. 
+[2021.04.06-01.20.52:714][345]MapCheck: Map check complete: 0 Error(s), 13 Warning(s), took 15.22ms to complete.
+[2021.04.06-01.20.55:440][356]LogSlate: Window 'Message Log' being destroyed
+[2021.04.06-01.20.55:478][356]LogSlate: Window 'Message Log' being destroyed
