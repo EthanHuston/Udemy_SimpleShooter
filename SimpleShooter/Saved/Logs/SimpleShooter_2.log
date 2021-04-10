@@ -1,0 +1,1551 @@
+﻿Log file open, 04/10/21 15:46:29
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SimpleShooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.238742
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.04.10-19.46.29:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.10-19.46.29:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.04.10-19.46.29:977][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.04.10-19.46.29:997][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.10-19.46.29:997][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.10-19.46.29:998][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:998][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.10-19.46.29:999][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.10-19.46.29:999][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.10-19.46.29:999][  0]LogHAL: Display: Platform has ~ 16 GB [17108389888 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.10-19.46.29:999][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.10-19.46.29:999][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.10-19.46.29:999][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Scalability.ini]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.10-19.46.30:000][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Config/Windows/Engine.ini]
+[2021.04.10-19.46.30:000][  0]LogInit: Computer: ETHANS-PC
+[2021.04.10-19.46.30:001][  0]LogInit: User: EthanHuston
+[2021.04.10-19.46.30:001][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.10-19.46.30:001][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.10-19.46.30:001][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.04.10-19.46.30:001][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.10-19.46.30:001][  0]LogMemory: Process Physical Memory: 133.48 MB used, 133.49 MB peak
+[2021.04.10-19.46.30:001][  0]LogMemory: Process Virtual Memory: 110.33 MB used, 110.33 MB peak
+[2021.04.10-19.46.30:001][  0]LogMemory: Physical Memory: 8603.65 MB used,  7712.18 MB free, 16315.83 MB total
+[2021.04.10-19.46.30:001][  0]LogMemory: Virtual Memory: 134213696.00 MB used,  4035.03 MB free, 134217728.00 MB total
+[2021.04.10-19.46.30:429][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.10-19.46.30:448][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.10-19.46.30:449][  0]LogInit: Using OS detected language (en-US).
+[2021.04.10-19.46.30:449][  0]LogInit: Using OS detected locale (en-US).
+[2021.04.10-19.46.30:452][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.10-19.46.30:632][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.10-19.46.30:643][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.10-19.46.30:682][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.10-19.46.30:682][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.10-19.46.30:819][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.10-19.46.30:819][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.10-19.46.30:819][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.10-19.46.30:819][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.10-19.46.30:861][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2021.04.10-19.46.30:861][  0]LogD3D11RHI:       8171/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2021.04.10-19.46.30:863][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.10-19.46.30:863][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.10-19.46.30:863][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.10-19.46.30:872][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.10-19.46.30:872][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2021.04.10-19.46.30:872][  0]LogWindows: EnumDisplayDevices:
+[2021.04.10-19.46.30:872][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:1 D:1)
+[2021.04.10-19.46.30:873][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:0 D:1)
+[2021.04.10-19.46.30:873][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.04.10-19.46.30:873][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.04.10-19.46.30:874][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.04.10-19.46.30:874][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.04.10-19.46.30:874][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.04.10-19.46.30:875][  0]LogWindows:    7. 'Radeon RX 580 Series' (P:0 D:0)
+[2021.04.10-19.46.30:875][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.04.10-19.46.30:875][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2021.04.10-19.46.30:875][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.11.3 (internal:27.20.14501.24001, unified:27.20.14501.24001)
+[2021.04.10-19.46.30:875][  0]LogD3D11RHI:      Driver Date: 11-25-2020
+[2021.04.10-19.46.30:875][  0]LogRHI: Texture pool is 5182 MB (70% of 7403 MB)
+[2021.04.10-19.46.30:937][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.10-19.46.30:937][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.10-19.46.30:937][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.10-19.46.30:948][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2021.04.10-19.46.31:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.10-19.46.31:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.10-19.46.31:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.10-19.46.31:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.10-19.46.31:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.10-19.46.31:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.10-19.46.31:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.10-19.46.31:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.10-19.46.31:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.10-19.46.31:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.10-19.46.31:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.10-19.46.31:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.10-19.46.31:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.10-19.46.31:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.10-19.46.31:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.10-19.46.31:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.10-19.46.31:281][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.10-19.46.31:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.10-19.46.31:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.10-19.46.31:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.10-19.46.31:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.10-19.46.31:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.10-19.46.31:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.10-19.46.31:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.10-19.46.31:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.10-19.46.31:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.10-19.46.31:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.10-19.46.31:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.10-19.46.31:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.10-19.46.31:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.10-19.46.31:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.10-19.46.31:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.10-19.46.31:416][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.10-19.46.31:423][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.10-19.46.31:476][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.10-19.46.31:476][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Intermediate/Shaders/WorkingDirectory/18956/).
+[2021.04.10-19.46.31:477][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ethan Huston/AppData/Local/Temp/UnrealShaderWorkingDir/B01D37504DD7FB57902E7EAB1C8A4EBB/'.
+[2021.04.10-19.46.31:477][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.10-19.46.31:477][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.10-19.46.32:193][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.10-19.46.32:241][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Ethan Huston/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.10-19.46.32:241][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ethan Huston/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.10-19.46.32:242][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.10-19.46.32:242][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.10-19.46.32:242][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.10-19.46.32:242][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.10-19.46.32:253][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.10-19.46.32:254][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.10-19.46.32:254][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.10-19.46.32:263][  0]LogDerivedDataCache: Speed tests for C:/Users/Ethan Huston/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.04.10-19.46.32:263][  0]LogDerivedDataCache: Display: Performance to C:/Users/Ethan Huston/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=284.13MBs, RandomWriteSpeed=170.56MBs. Assigned SpeedClass 'Local'
+[2021.04.10-19.46.32:264][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ethan Huston/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.10-19.46.32:264][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.10-19.46.32:264][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.10-19.46.32:316][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.10-19.46.32:316][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.10-19.46.32:335][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.04.10-19.46.32:586][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.10-19.46.32:586][  0]LogInit: Active device profile: [0000029BD4332000][0000029BD2D04C80 49] Windows
+[2021.04.10-19.46.32:586][  0]LogInit: Profiles: [0000029BD4332000][0000029BD2D04C80 49] Windows, [0000029BD42EE200][0000029BD2D0CE00 49] WindowsNoEditor, [0000029BD4333C00][0000029BD3FD2F80 49] WindowsServer, [0000029BD42EC600][0000029BD4007100 49] WindowsClient, [0000029BD4330700][0000029BD400B280 49] IOS, [0000029BD42EF700][0000029BD4013400 49] iPadAir, [0000029BD4332D00][0000029BD4017580 49] iPadAir2, [0000029BD50F7500][0000029BD401B7C0 49] IPadPro, [0000029BD50F7600][0000029BD2D09800 49] iPadAir3, [0000029BD4331600][0000029BD403B940 49] iPadAir4, [0000029BD50F6700][0000029BD4043AC0 49] iPadMini2, [0000029BD4333700][0000029BD404DC40 49] iPadMini3, [0000029BD50F6600][0000029BD4050100 49] iPadMini4, [0000029BD4330500][0000029BD406C280 49] iPadMini5, [0000029BD42EB000][0000029BD4074540 49] iPhone6, [0000029BD42EB100][0000029BD4070580 49] iPodTouch6, [0000029BD50F7C00][0000029BD4084840 49] iPhone7, [0000029BD50F7D00][0000029BD4080880 49] iPodTouch7, [0000029BD42EA500][0000029BD40C0A00 49] iPhone5S, [0000029BD50F5600][0000029BD40C8B80 49] iPhone6Plus, [0000029BD42E8F00][0000029BD40D2D00 49] iPhone6S, [0000029BD50F5700][0000029BD4104E80 49] iPhone6SPlus, [0000029BD42E9700][0000029BD4113000 49] iPhone7Plus, [0000029BD50F6900][0000029BD5131180 49] iPhoneSE, [0000029BD42EAE00][0000029BD5155300 49] iPhone8, [0000029BD50F4B00][0000029BD5159480 49] iPhone8Plus, [0000029BD42EA200][0000029BD515D600 49] iPhoneX, [0000029BD50F5B00][0000029BD403F740 49] iPhoneXS, [0000029BD42E8500][0000029BD5165880 49] iPhoneXSMax, [0000029BD50F4100][0000029BD51699C0 49] iPhoneXR, [0000029BD42EB600][0000029BD5171B40 49] iPhone11, [0000029BD50F7300][0000029BD5175CC0 49] iPhone11Pro, [0000029BD42E9200][0000029BD5180180 49] iPhone11ProMax, [0000029BD50F4700][0000029BD518A300 49] iPhoneSE2, [0000029BD42EA900][0000029BD518E480 49] iPhone12Mini, [0000029BD50F6300][0000029BD5192600 49] iPhone12, [0000029BD42E8200][0000029BD51A2780 49] iPhone12Pro, [0000029BD50F6100][0000029BD51A6900 49] iPhone12ProMax, [0000029BD42E8100][0000029BD51AAA80 49] iPadPro105, [0000029BD50F7B00][0000029BD51AEC00 49] iPadPro129, [0000029BD42EB200][0000029BD51B2D80 49] iPadPro97, [0000029BD42E9E00][0000029BD51B6F00 49] iPadPro2_129, [0000029BD42ECC00][0000029BD51BB080 49] iPad5, [0000029BD42EBF00][0000029BD51BF200 49] iPad6, [0000029BD42EFF00][0000029BD51C3380 49] iPad7, [0000029BD42EAC00][0000029BD51C7500 49] iPad8, [0000029BD42EDE00][0000029BD51CB680 49] iPadPro11, [0000029BD42E8800][0000029BD516D7C0 49] iPadPro2_11, [0000029BD42EEE00][0000029BD51CF900 49] iPadPro3_129, [0000029BD42E9D00][0000029BD51F3A40 49] iPadPro4_129, [0000029BD42EE900][0000029BD51F7B80 49] AppleTV, [0000029BD42E9500][0000029BD51FFD00 49] AppleTV4K, [0000029BD42ED000][0000029BD52021C0 49] TVOS, [0000029BD42E9400][0000029BD5206340 49] Mac, [0000029BD42ED200][0000029BD520A4C0 49] MacClient, [0000029BD50F6400][0000029BD520E640 49] MacNoEditor, [0000029BD42EE400][0000029BD523E7C0 49] MacServer, [0000029BD50F7F00][0000029BD5242940 49] Linux, [0000029BD42EF400][0000029BD5246AC0 49] LinuxNoEditor, [0000029BD50F4E00][0000029BD524AC40 49] LinuxAArch64NoEditor, [0000029BD42EC300][0000029BD524EDC0 49] LinuxClient, [0000029BD50F5D00][0000029BD5252F40 49] LinuxAArch64Client, [0000029BD42ECF00][0000029BD52570C0 49] LinuxServer, [0000029BD50F6200][0000029BD525B240 49] LinuxAArch64Server, [0000029BD42ECA00][0000029BD525F3C0 49] Android, [0000029BD50F7400][0000029BD5263540 49] Android_Low, [0000029BD42ECE00][0000029BD52676C0 49] Android_Mid, [0000029BD50F5800][0000029BD51FB800 49] Android_High, [0000029BD42EE700][0000029BD526B940 49] Android_Default, [0000029BD50F6500][0000029BD526FA80 49] Android_Adreno4xx, [0000029BD42EED00][0000029BD5273BC0 49] Android_Adreno5xx_Low, [0000029BD50F4200][0000029BD52B7D40 49] Android_Adreno5xx, [0000029BD42EF900][0000029BD52BA200 49] Android_Adreno6xx, [0000029BD50F4F00][0000029BD52BE380 49] Android_Adreno6xx_Vulkan, [0000029BD42ED900][0000029BD52C2500 49] Android_Mali_T6xx, [0000029BD50F6A00][0000029BD52C6680 49] Android_Mali_T7xx, [0000029BD42EEF00][0000029BD52CA800 49] Android_Mali_T8xx, [0000029BD50F4A00][0000029BD52CE980 49] Android_Mali_G71, [0000029BD42ECD00][0000029BD52D2B00 49] Android_Mali_G72, [0000029BD50F7E00][0000029BD52D6C80 49] Android_Mali_G72_Vulkan, [0000029BD42EF600][0000029BD52DAE00 49] Android_Mali_G76, [0000029BD50F7900][0000029BD52DEF80 49] Android_Mali_G76_Vulkan, [0000029BD42EC100][0000029BD52E3100 49] Android_Mali_G77, [0000029BD50F7100][0000029BD52E7280 49] Android_Mali_G77_Vulkan, [0000029BD42EE600][0000029BD52EB400 49] Android_Vulkan_SM5, [0000029BD50F4500][0000029BD52EF580 49] Android_PowerVR_G6xxx, [0000029BD42EFA00][0000029BD52F3700 49] Android_PowerVR_GT7xxx, [0000029BD50F7800][0000029BD52F7880 49] Android_PowerVR_GE8xxx, [0000029BD42EE100][0000029BD52B39C0 49] Android_PowerVR_GM9xxx, [0000029BD50F7000][0000029BD52FBB00 49] Android_PowerVR_GM9xxx_Vulkan, [0000029BD42EFE00][0000029BD52FFC40 49] Android_TegraK1, [0000029BD50F5300][0000029BD5358100 49] Android_Unknown_Vulkan, [0000029BD42ECB00][0000029BD535C280 49] Lumin, [0000029BD50F5100][0000029BD5360400 49] Lumin_Desktop, [0000029BD42EE000][0000029BD5364580 49] HoloLens, 
+[2021.04.10-19.46.32:677][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.10-19.46.32:677][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.10-19.46.32:677][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.10-19.46.32:677][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.10-19.46.32:677][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.10-19.46.32:703][  0]LogNetVersion: SimpleShooter 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 196078098)
+[2021.04.10-19.46.33:043][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.10-19.46.33:085][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.041699 seconds
+[2021.04.10-19.46.33:091][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.04.10-19.46.33:091][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.04.10-19.46.33:091][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.10-19.46.33:401][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.10-19.46.33:405][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.10-19.46.33:477][  0]SourceControl: Source control is disabled
+[2021.04.10-19.46.33:477][  0]SourceControl: Source control is disabled
+[2021.04.10-19.46.33:484][  0]SourceControl: Source control is disabled
+[2021.04.10-19.46.33:487][  0]SourceControl: Source control is disabled
+[2021.04.10-19.46.33:490][  0]SourceControl: Source control is disabled
+[2021.04.10-19.46.33:498][  0]LogUProjectInfo: Found projects:
+[2021.04.10-19.46.33:696][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.10-19.46.33:713][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.10-19.46.33:713][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.10-19.46.33:755][  0]LogCollectionManager: Loaded 0 collections in 0.001533 seconds
+[2021.04.10-19.46.33:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Collections/' took 0.00s
+[2021.04.10-19.46.33:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Developers/EthanHuston/Collections/' took 0.00s
+[2021.04.10-19.46.33:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Collections/' took 0.00s
+[2021.04.10-19.46.33:777][  0]LogOcInput: OculusInput pre-init called
+[2021.04.10-19.46.33:787][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.10-19.46.33:787][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.10-19.46.33:833][  0]LogEngine: Initializing Engine...
+[2021.04.10-19.46.33:834][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.10-19.46.33:834][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.10-19.46.33:834][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.10-19.46.33:927][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.10-19.46.33:934][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.10-19.46.33:950][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.10-19.46.33:953][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.10-19.46.33:954][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.10-19.46.33:954][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-19.46.33:954][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-19.46.33:954][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-19.46.33:954][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-19.46.33:954][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-19.46.33:954][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-19.46.33:954][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-19.46.33:954][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-19.46.33:954][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-19.46.33:954][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-19.46.33:964][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-19.46.33:964][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-19.46.33:988][  0]LogAudioMixer: Display: Using Audio Device 3 - Sceptre L24 (AMD High Definition Audio Device)
+[2021.04.10-19.46.33:993][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-19.46.33:994][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-19.46.33:994][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-19.46.33:995][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-19.46.33:995][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-19.46.33:995][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-19.46.33:996][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-19.46.33:996][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-19.46.33:996][  0]LogInit: FAudioDevice initialized.
+[2021.04.10-19.46.33:997][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.10-19.46.33:997][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.10-19.46.34:043][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/Ethan Huston/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.10-19.46.34:043][  0]LogInit: Texture streaming: Enabled
+[2021.04.10-19.46.34:053][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.04.10-19.46.34:056][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.10-19.46.34:056][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.10-19.46.34:059][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.10-19.46.34:082][  0]LogInit: Transaction tracking system initialized
+[2021.04.10-19.46.34:099][  0]BlueprintLog: New page: Editor Load
+[2021.04.10-19.46.34:154][  0]LocalizationService: Localization service is disabled
+[2021.04.10-19.46.34:173][  0]TimingProfiler: Initialize
+[2021.04.10-19.46.34:173][  0]TimingProfiler: OnSessionChanged
+[2021.04.10-19.46.34:173][  0]LoadingProfiler: Initialize
+[2021.04.10-19.46.34:173][  0]LoadingProfiler: OnSessionChanged
+[2021.04.10-19.46.34:173][  0]NetworkingProfiler: Initialize
+[2021.04.10-19.46.34:174][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.10-19.46.34:174][  0]MemoryProfiler: Initialize
+[2021.04.10-19.46.34:174][  0]MemoryProfiler: OnSessionChanged
+[2021.04.10-19.46.34:284][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.10-19.46.34:284][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.10-19.46.34:406][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/' took 0.03s
+[2021.04.10-19.46.34:537][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.10-19.46.34:540][  0]SourceControl: Source control is disabled
+[2021.04.10-19.46.34:540][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.489
+[2021.04.10-19.46.34:540][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.10-19.46.34:540][  0]LightingResults: New page: Lighting Build
+[2021.04.10-19.46.34:541][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-19.46.34:541][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-19.46.34:541][  0]MapCheck: New page: Map Check
+[2021.04.10-19.46.34:541][  0]LightingResults: New page: Lighting Build
+[2021.04.10-19.46.34:550][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.04.10-19.46.43:963][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sandbox'.
+[2021.04.10-19.46.43:964][  0]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.10-19.46.44:913][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.10-19.46.45:150][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.04.10-19.46.45:153][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.10-19.46.45:154][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.729ms to complete.
+[2021.04.10-19.46.45:154][  0]LogFileHelpers: Loading map 'Sandbox' took 10.614
+[2021.04.10-19.46.45:190][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.139
+[2021.04.10-19.46.45:408][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-19.46.45:414][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-19.46.45:420][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-19.46.45:425][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-19.46.45:466][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0107 seconds. Added 3605 classes and 861 folders.
+[2021.04.10-19.46.45:472][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.10-19.46.45:485][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.10-19.46.45:485][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:485][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.10-19.46.45:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000198
+[2021.04.10-19.46.45:495][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.10-19.46.45:495][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:495][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.10-19.46.45:495][  0]LogPakFile: OnPakFileMounted2Time == 0.000201
+[2021.04.10-19.46.45:501][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.10-19.46.45:501][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:501][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.10-19.46.45:501][  0]LogPakFile: OnPakFileMounted2Time == 0.000205
+[2021.04.10-19.46.45:507][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.10-19.46.45:507][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:507][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.10-19.46.45:507][  0]LogPakFile: OnPakFileMounted2Time == 0.000209
+[2021.04.10-19.46.45:513][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.10-19.46.45:513][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:513][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.10-19.46.45:514][  0]LogPakFile: OnPakFileMounted2Time == 0.000213
+[2021.04.10-19.46.45:519][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.10-19.46.45:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.10-19.46.45:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000216
+[2021.04.10-19.46.45:525][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.10-19.46.45:525][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.10-19.46.45:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000218
+[2021.04.10-19.46.45:532][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.10-19.46.45:532][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:532][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.10-19.46.45:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000221
+[2021.04.10-19.46.45:540][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.10-19.46.45:540][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:540][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.10-19.46.45:540][  0]LogPakFile: OnPakFileMounted2Time == 0.000225
+[2021.04.10-19.46.45:545][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.10-19.46.45:546][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:546][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.10-19.46.45:546][  0]LogPakFile: OnPakFileMounted2Time == 0.000229
+[2021.04.10-19.46.45:551][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.10-19.46.45:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.10-19.46.45:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000232
+[2021.04.10-19.46.45:557][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.10-19.46.45:557][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:557][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.10-19.46.45:557][  0]LogPakFile: OnPakFileMounted2Time == 0.000235
+[2021.04.10-19.46.45:563][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.10-19.46.45:563][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:563][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.10-19.46.45:563][  0]LogPakFile: OnPakFileMounted2Time == 0.000238
+[2021.04.10-19.46.45:568][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.10-19.46.45:568][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.10-19.46.45:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000242
+[2021.04.10-19.46.45:574][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.10-19.46.45:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:574][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.10-19.46.45:574][  0]LogPakFile: OnPakFileMounted2Time == 0.000246
+[2021.04.10-19.46.45:580][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.10-19.46.45:581][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:581][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.10-19.46.45:581][  0]LogPakFile: OnPakFileMounted2Time == 0.000250
+[2021.04.10-19.46.45:586][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.10-19.46.45:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.10-19.46.45:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000254
+[2021.04.10-19.46.45:592][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.10-19.46.45:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.10-19.46.45:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000258
+[2021.04.10-19.46.45:598][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.10-19.46.45:598][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:598][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.10-19.46.45:598][  0]LogPakFile: OnPakFileMounted2Time == 0.000261
+[2021.04.10-19.46.45:608][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.10-19.46.45:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.10-19.46.45:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000265
+[2021.04.10-19.46.45:614][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.10-19.46.45:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.10-19.46.45:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000269
+[2021.04.10-19.46.45:620][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.10-19.46.45:620][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:620][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.10-19.46.45:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000273
+[2021.04.10-19.46.45:626][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.10-19.46.45:626][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:626][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.10-19.46.45:626][  0]LogPakFile: OnPakFileMounted2Time == 0.000276
+[2021.04.10-19.46.45:632][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.10-19.46.45:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.10-19.46.45:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000280
+[2021.04.10-19.46.45:639][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.10-19.46.45:639][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:639][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.10-19.46.45:639][  0]LogPakFile: OnPakFileMounted2Time == 0.000283
+[2021.04.10-19.46.45:645][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.10-19.46.45:645][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.10-19.46.45:645][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.10-19.46.45:645][  0]LogPakFile: OnPakFileMounted2Time == 0.000286
+[2021.04.10-19.46.45:836][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.10-19.46.45:845][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.04.10-19.46.45:915][  0]LogSlate: Took 0.005673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.10-19.46.45:923][  0]LogSlate: Took 0.005815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.10-19.46.45:934][  0]LogSlate: Took 0.005633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.10-19.46.46:286][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.04.10-19.46.46:510][  0]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.10-19.46.46:723][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.10-19.46.46:723][  0]LogLoad: (Engine Initialization) Total time: 17.67 seconds
+[2021.04.10-19.46.46:723][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.10-19.46.46:723][  0]LogInit: First time updating LLM stats...
+[2021.04.10-19.46.46:905][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.04.10-19.46.46:945][  1]LogAssetRegistry: Asset discovery search completed in 14.6101 seconds
+[2021.04.10-19.46.46:948][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.04.10-19.46.47:765][ 48]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.10-19.47.14:649][215]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Rifle.BP_Rifle
+[2021.04.10-19.47.15:163][215]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.04.10-19.47.17:249][215]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_ShooterCharacter.BP_ShooterCharacter
+[2021.04.10-19.47.18:049][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0040
+[2021.04.10-19.47.18:049][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00D0
+[2021.04.10-19.47.18:049][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:0102
+[2021.04.10-19.47.18:073][215]LogSlate: Took 0.005889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.10-19.47.22:467][669]LogSlate: Window 'BP_Rifle' being destroyed
+[2021.04.10-19.47.25:008][913]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-19.47.25:008][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-19.47.25:065][913]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Rifle.BP_Rifle
+[2021.04.10-19.47.27:429][120]LogSlate: Window 'BP_Rifle' being destroyed
+[2021.04.10-19.50.08:618][914]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.10-19.50.22:960][766]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.10-19.50.22:962][766]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.10-19.50.24:821][904]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-19.50.24:828][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.10-19.50.24:829][904]PIE: New page: PIE session: Sandbox (Apr 10, 2021, 11:50:24 AM)
+[2021.04.10-19.50.24:832][904]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.10-19.50.24:834][904]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.10-19.50.24:834][904]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.10-19.50.25:036][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.202043s)
+[2021.04.10-19.50.25:037][904]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.10-19.50.25:038][904]LogPlayLevel: PIE: World Init took: (0.002034s)
+[2021.04.10-19.50.25:039][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.204943s)
+[2021.04.10-19.50.25:091][904]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.04.10-19.50.25:095][904]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.10-19.50.25:095][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-19.50.25:095][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-19.50.25:095][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-19.50.25:095][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-19.50.25:095][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-19.50.25:095][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-19.50.25:095][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-19.50.25:095][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-19.50.25:096][904]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-19.50.25:096][904]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-19.50.25:102][904]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-19.50.25:102][904]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-19.50.25:110][904]LogAudioMixer: Display: Using Audio Device 3 - Sceptre L24 (AMD High Definition Audio Device)
+[2021.04.10-19.50.25:110][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-19.50.25:110][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-19.50.25:111][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-19.50.25:111][904]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-19.50.25:111][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-19.50.25:111][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-19.50.25:122][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-19.50.25:122][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-19.50.25:122][904]LogInit: FAudioDevice initialized.
+[2021.04.10-19.50.25:122][904]LogAudio: Display: Audio Device (ID: 2) registered with world 'Sandbox'.
+[2021.04.10-19.50.25:134][904]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.04.10-19.50.25:186][904]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.10-15.50.25
+[2021.04.10-19.50.25:196][904]LogWorld: Bringing up level for play took: 0.058442
+[2021.04.10-19.50.25:197][904]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.04.10-19.50.25:209][904]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.04.10-19.50.25:219][904]PIE: Server logged in
+[2021.04.10-19.50.25:221][904]PIE: Play in editor total start time 0.395 seconds.
+[2021.04.10-19.50.26:680][973]LogSlate: Took 0.008805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.10-19.50.29:857][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-19.50.29:857][192]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.10-19.50.29:860][192]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-19.50.29:871][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-19.50.29:881][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-19.50.29:890][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-19.50.29:914][192]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.10-19.50.29:931][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-19.50.29:932][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-19.50.29:944][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-19.50.29:993][192]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.04.10-19.50.30:033][193]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.04.10-19.50.30:773][240]Candidate modules for hot reload:
+[2021.04.10-19.50.30:773][240]  SimpleShooter
+[2021.04.10-19.50.30:773][240]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,8417 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.10-19.50.30:777][240]Warning: Starting HotReload took  0.0s.
+[2021.04.10-19.50.53:807][955]CompilerResultsLog: New page: Compilation - Apr 10, 2021, 11:50:53 AM
+[2021.04.10-19.50.53:807][955]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.10-19.50.53:807][955]CompilerResultsLog: Invalidating makefile for SimpleShooterEditor (Gun.cpp modified)
+[2021.04.10-19.50.53:807][955]CompilerResultsLog: Parsing headers for SimpleShooterEditor
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\SimpleShooter.uproject" "C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\SimpleShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Ethan Huston\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.04.10-19.50.53:807][955]CompilerResultsLog: Reflection code generated for SimpleShooterEditor in 15.2491049 seconds
+[2021.04.10-19.50.53:807][955]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.10-19.50.53:807][955]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.10-19.50.53:807][955]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:   [1/6] Gun.cpp
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\Gun.cpp(37) : error C2065: 'Warning': undeclared identifier
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\Gun.cpp(37) : error C3861: 'UELOG': identifier not found
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:   [2/6] ShooterCharacter.cpp
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2672: 'UInputComponent::BindAction': no matching overloaded function found
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,DelegateType::TUObjectMethodDelegate<UserClass>::FMethodPtr,VarTypes...)': expects 5 arguments - 3 provided
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(891): note: see declaration of 'UInputComponent::BindAction'
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TDelegate<void (FKey),FDefaultDelegateUserPolicy>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': expects 4 arguments - 3 provided
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(879): note: see declaration of 'UInputComponent::BindAction'
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TDelegate<void (void),FDefaultDelegateUserPolicy>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': expects 4 arguments - 3 provided
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(867): note: see declaration of 'UInputComponent::BindAction'
+[2021.04.10-19.50.53:807][955]CompilerResultsLog:   [3/6] Gun.gen.cpp
+[2021.04.10-19.50.53:808][955]LogMainFrame: MainFrame: Module compiling took 23.056 seconds
+[2021.04.10-19.50.53:821][955]Warning: HotReload failed, recompile failed
+[2021.04.10-19.51.42:414][357]Candidate modules for hot reload:
+[2021.04.10-19.51.42:414][357]  SimpleShooter
+[2021.04.10-19.51.42:414][357]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,6416 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.10-19.51.42:417][357]Warning: Starting HotReload took  0.0s.
+[2021.04.10-19.51.43:309][400]LogSlate: Window 'Message Log' being destroyed
+[2021.04.10-19.51.43:331][400]LogSlate: Window 'Message Log' being destroyed
+[2021.04.10-19.51.45:249][469]CompilerResultsLog: New page: Compilation - Apr 10, 2021, 11:51:45 AM
+[2021.04.10-19.51.45:249][469]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.10-19.51.45:249][469]CompilerResultsLog: Invalidating makefile for SimpleShooterEditor (Gun.cpp modified)
+[2021.04.10-19.51.45:249][469]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.10-19.51.45:249][469]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.10-19.51.45:249][469]CompilerResultsLog: Building 5 actions with 12 processes...
+[2021.04.10-19.51.45:250][469]CompilerResultsLog:   [1/5] ShooterCharacter.cpp
+[2021.04.10-19.51.45:250][469]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2672: 'UInputComponent::BindAction': no matching overloaded function found
+[2021.04.10-19.51.45:250][469]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,DelegateType::TUObjectMethodDelegate<UserClass>::FMethodPtr,VarTypes...)': expects 5 arguments - 3 provided
+[2021.04.10-19.51.45:250][469]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(891): note: see declaration of 'UInputComponent::BindAction'
+[2021.04.10-19.51.45:250][469]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TDelegate<void (FKey),FDefaultDelegateUserPolicy>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': expects 4 arguments - 3 provided
+[2021.04.10-19.51.45:250][469]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(879): note: see declaration of 'UInputComponent::BindAction'
+[2021.04.10-19.51.45:250][469]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TDelegate<void (void),FDefaultDelegateUserPolicy>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': expects 4 arguments - 3 provided
+[2021.04.10-19.51.45:250][469]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(867): note: see declaration of 'UInputComponent::BindAction'
+[2021.04.10-19.51.45:250][469]CompilerResultsLog:   [2/5] Gun.cpp
+[2021.04.10-19.51.45:250][469]LogMainFrame: MainFrame: Module compiling took 2.856 seconds
+[2021.04.10-19.51.45:250][469]Warning: HotReload failed, recompile failed
+[2021.04.10-19.52.14:489][896]Candidate modules for hot reload:
+[2021.04.10-19.52.14:489][896]  SimpleShooter
+[2021.04.10-19.52.14:489][896]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,7400 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.10-19.52.14:492][896]Warning: Starting HotReload took  0.0s.
+[2021.04.10-19.52.17:089][945]CompilerResultsLog: New page: Compilation - Apr 10, 2021, 11:52:17 AM
+[2021.04.10-19.52.17:091][945]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.10-19.52.17:091][945]CompilerResultsLog: Invalidating makefile for SimpleShooterEditor (ShooterCharacter.cpp modified)
+[2021.04.10-19.52.17:091][945]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.10-19.52.17:091][945]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.10-19.52.17:091][945]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.04.10-19.52.17:091][945]CompilerResultsLog:   [1/4] ShooterCharacter.cpp
+[2021.04.10-19.52.17:091][945]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2664: 'FInputActionBinding &UInputComponent::BindAction<AShooterCharacter>(const FName,const EInputEvent,UserClass *,void (__cdecl AShooterCharacter::* )(void))': cannot convert argument 4 from 'void (__cdecl AGun::* )(void)' to 'void (__cdecl AShooterCharacter::* )(void)'
+[2021.04.10-19.52.17:091][945]CompilerResultsLog:           with
+[2021.04.10-19.52.17:091][945]CompilerResultsLog:           [
+[2021.04.10-19.52.17:091][945]CompilerResultsLog:               UserClass=AShooterCharacter
+[2021.04.10-19.52.17:091][945]CompilerResultsLog:           ]
+[2021.04.10-19.52.17:091][945]CompilerResultsLog:   C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+[2021.04.10-19.52.17:091][945]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(867): note: see declaration of 'UInputComponent::BindAction'
+[2021.04.10-19.52.17:091][945]LogMainFrame: MainFrame: Module compiling took 2.624 seconds
+[2021.04.10-19.52.17:091][945]Warning: HotReload failed, recompile failed
+[2021.04.10-19.52.39:459][769]LogSlate: Window 'Message Log' being destroyed
+[2021.04.10-19.52.39:478][769]LogSlate: Window 'Message Log' being destroyed
+[2021.04.10-19.53.13:860][945]Candidate modules for hot reload:
+[2021.04.10-19.53.13:860][945]  SimpleShooter
+[2021.04.10-19.53.13:860][945]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,3353 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.10-19.53.13:863][945]Warning: Starting HotReload took  0.0s.
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog: New page: Compilation - Apr 10, 2021, 11:53:15 AM
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog:   [1/4] ShooterCharacter.cpp
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2664: 'FInputActionBinding &UInputComponent::BindAction<AShooterCharacter>(const FName,const EInputEvent,UserClass *,void (__cdecl AShooterCharacter::* )(void))': cannot convert argument 4 from 'void (__cdecl AGun::* )(void)' to 'void (__cdecl AShooterCharacter::* )(void)'
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog:           with
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog:           [
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog:               UserClass=AShooterCharacter
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog:           ]
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog:   C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+[2021.04.10-19.53.15:071][  9]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(867): note: see declaration of 'UInputComponent::BindAction'
+[2021.04.10-19.53.15:071][  9]LogMainFrame: MainFrame: Module compiling took 1.233 seconds
+[2021.04.10-19.53.15:071][  9]Warning: HotReload failed, recompile failed
+[2021.04.10-19.54.12:420][831]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.10-19.54.50:018][476]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.10-19.54.50:043][476]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.10-19.54.50:880][520]LogSlate: Window 'Message Log' being destroyed
+[2021.04.10-19.54.50:901][520]LogSlate: Window 'Message Log' being destroyed
+[2021.04.10-19.55.57:872][825]Candidate modules for hot reload:
+[2021.04.10-19.55.57:872][825]  SimpleShooter
+[2021.04.10-19.55.57:872][825]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,297 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.10-19.55.57:875][825]Warning: Starting HotReload took  0.0s.
+[2021.04.10-19.56.04:612][181]CompilerResultsLog: New page: Compilation - Apr 10, 2021, 11:56:04 AM
+[2021.04.10-19.56.04:612][181]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.10-19.56.04:612][181]CompilerResultsLog: Invalidating makefile for SimpleShooterEditor (ShooterCharacter.cpp modified)
+[2021.04.10-19.56.04:612][181]CompilerResultsLog: Parsing headers for SimpleShooterEditor
+[2021.04.10-19.56.04:612][181]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\SimpleShooter.uproject" "C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\SimpleShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Ethan Huston\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.04.10-19.56.04:612][181]CompilerResultsLog: Reflection code generated for SimpleShooterEditor in 3.521798 seconds
+[2021.04.10-19.56.04:612][181]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.10-19.56.04:612][181]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.10-19.56.04:612][181]CompilerResultsLog: Building 5 actions with 12 processes...
+[2021.04.10-19.56.04:612][181]CompilerResultsLog:   [1/5] ShooterCharacter.cpp
+[2021.04.10-19.56.04:612][181]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2653: 'AAShooterCharacter': is not a class or namespace name
+[2021.04.10-19.56.04:613][181]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2276: '&': illegal operation on bound member function expression
+[2021.04.10-19.56.04:613][181]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2672: 'UInputComponent::BindAction': no matching overloaded function found
+[2021.04.10-19.56.04:613][181]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,DelegateType::TUObjectMethodDelegate<UserClass>::FMethodPtr,VarTypes...)': expects 5 arguments - 3 provided
+[2021.04.10-19.56.04:613][181]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(891): note: see declaration of 'UInputComponent::BindAction'
+[2021.04.10-19.56.04:613][181]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TDelegate<void (FKey),FDefaultDelegateUserPolicy>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': expects 4 arguments - 3 provided
+[2021.04.10-19.56.04:613][181]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(879): note: see declaration of 'UInputComponent::BindAction'
+[2021.04.10-19.56.04:613][181]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\ShooterCharacter.cpp(46) : error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TDelegate<void (void),FDefaultDelegateUserPolicy>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': expects 4 arguments - 3 provided
+[2021.04.10-19.56.04:613][181]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(867): note: see declaration of 'UInputComponent::BindAction'
+[2021.04.10-19.56.04:613][181]CompilerResultsLog:   [2/5] ShooterCharacter.gen.cpp
+[2021.04.10-19.56.04:613][181]LogMainFrame: MainFrame: Module compiling took 6.761 seconds
+[2021.04.10-19.56.04:613][181]Warning: HotReload failed, recompile failed
+[2021.04.10-19.56.16:049][510]Candidate modules for hot reload:
+[2021.04.10-19.56.16:049][510]  SimpleShooter
+[2021.04.10-19.56.16:050][510]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,2400 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.10-19.56.16:052][510]Warning: Starting HotReload took  0.0s.
+[2021.04.10-19.56.20:024][712]CompilerResultsLog: New page: Compilation - Apr 10, 2021, 11:56:20 AM
+[2021.04.10-19.56.20:024][712]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.10-19.56.20:024][712]CompilerResultsLog: Invalidating makefile for SimpleShooterEditor (ShooterCharacter.cpp modified)
+[2021.04.10-19.56.20:024][712]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.10-19.56.20:024][712]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.10-19.56.20:024][712]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.04.10-19.56.20:024][712]CompilerResultsLog:   [1/4] ShooterCharacter.cpp
+[2021.04.10-19.56.20:024][712]CompilerResultsLog:   [2/4] UE4Editor-SimpleShooter-2400.lib
+[2021.04.10-19.56.20:024][712]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-2400.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-2400.exp
+[2021.04.10-19.56.20:024][712]CompilerResultsLog:   [3/4] UE4Editor-SimpleShooter-2400.dll
+[2021.04.10-19.56.20:024][712]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-2400.suppressed.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-2400.suppressed.exp
+[2021.04.10-19.56.20:024][712]CompilerResultsLog:   [4/4] SimpleShooterEditor.target
+[2021.04.10-19.56.20:024][712]CompilerResultsLog: Total time in Parallel executor: 2.14 seconds
+[2021.04.10-19.56.20:024][712]CompilerResultsLog: Total execution time: 3.89 seconds
+[2021.04.10-19.56.20:024][712]LogMainFrame: MainFrame: Module compiling took 3.995 seconds
+[2021.04.10-19.56.20:072][712]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SimpleShooter' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.04.10-19.56.20:077][712]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.04.10-19.56.20:177][712]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0094 seconds. Added 3605 classes and 861 folders.
+[2021.04.10-19.56.20:178][712]Display: HotReload took  4.1s.
+[2021.04.10-19.56.23:240][864]LogSlate: Window 'Message Log' being destroyed
+[2021.04.10-19.56.23:264][864]LogSlate: Window 'Message Log' being destroyed
+[2021.04.10-19.56.23:898][899]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-19.56.23:903][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.10-19.56.23:903][899]PIE: New page: PIE session: Sandbox (Apr 10, 2021, 11:56:23 AM)
+[2021.04.10-19.56.23:903][899]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.10-19.56.24:100][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196377s)
+[2021.04.10-19.56.24:101][899]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.10-19.56.24:102][899]LogPlayLevel: PIE: World Init took: (0.001751s)
+[2021.04.10-19.56.24:103][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.198424s)
+[2021.04.10-19.56.24:182][899]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.04.10-19.56.24:183][899]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.04.10-19.56.24:183][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-19.56.24:183][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-19.56.24:183][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-19.56.24:183][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-19.56.24:183][899]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-19.56.24:183][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-19.56.24:183][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-19.56.24:183][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-19.56.24:183][899]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-19.56.24:183][899]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-19.56.24:190][899]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-19.56.24:190][899]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-19.56.24:199][899]LogAudioMixer: Display: Using Audio Device 3 - Sceptre L24 (AMD High Definition Audio Device)
+[2021.04.10-19.56.24:199][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-19.56.24:199][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-19.56.24:199][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-19.56.24:199][899]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-19.56.24:199][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-19.56.24:199][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-19.56.24:211][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-19.56.24:211][899]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-19.56.24:211][899]LogInit: FAudioDevice initialized.
+[2021.04.10-19.56.24:211][899]LogAudio: Display: Audio Device (ID: 3) registered with world 'Sandbox'.
+[2021.04.10-19.56.24:215][899]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.04.10-19.56.24:260][899]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.10-15.56.24
+[2021.04.10-19.56.24:269][899]LogWorld: Bringing up level for play took: 0.053598
+[2021.04.10-19.56.24:270][899]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.04.10-19.56.24:276][899]PIE: Server logged in
+[2021.04.10-19.56.24:276][899]PIE: Play in editor total start time 0.374 seconds.
+[2021.04.10-19.56.24:942][929]LogTemp: Warning: Trigger pulled!
+[2021.04.10-19.56.25:438][956]LogTemp: Warning: Trigger pulled!
+[2021.04.10-19.56.25:551][962]LogTemp: Warning: Trigger pulled!
+[2021.04.10-19.56.26:743][ 25]LogTemp: Warning: Trigger pulled!
+[2021.04.10-19.56.26:888][ 33]LogTemp: Warning: Trigger pulled!
+[2021.04.10-19.56.27:035][ 41]LogTemp: Warning: Trigger pulled!
+[2021.04.10-19.56.27:163][ 48]LogTemp: Warning: Trigger pulled!
+[2021.04.10-19.56.27:328][ 57]LogTemp: Warning: Trigger pulled!
+[2021.04.10-19.56.27:471][ 65]LogTemp: Warning: Trigger pulled!
+[2021.04.10-19.56.27:613][ 73]LogTemp: Warning: Trigger pulled!
+[2021.04.10-19.56.28:075][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-19.56.28:075][ 97]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.10-19.56.28:077][ 97]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-19.56.28:087][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-19.56.28:093][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-19.56.28:101][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-19.56.28:117][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-19.56.28:123][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-19.56.28:124][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-19.56.28:174][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.04.10-19.56.28:201][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.04.10-19.56.40:003][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.04.10-19.56.41:099][189]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Sandbox30DFC09149B00D77C006139EC734E938.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox.umap'
+[2021.04.10-19.56.41:109][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sandbox_BuiltData" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox_BuiltData.uasset" SILENT=true
+[2021.04.10-19.56.41:940][189]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Sandbox_BuiltData836A5DDB460706D2F8FDBFB8624DA4BF.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox_BuiltData.uasset'
+[2021.04.10-19.56.41:963][189]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.10-19.56.41:963][189]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sandbox_BuiltData.Sandbox_BuiltData
+[2021.04.10-19.56.41:963][189]LogContentValidation: Display: Validating World /Game/Sandbox.Sandbox
+[2021.04.10-19.57.55:938][726]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.10-19.58.10:924][519]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.10-19.58.10:948][519]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.10-19.58.26:254][181]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.10-19.58.31:978][481]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.10-19.58.31:999][481]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.10-19.58.32:793][524]Candidate modules for hot reload:
+[2021.04.10-19.58.32:793][524]  SimpleShooter
+[2021.04.10-19.58.32:793][524]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,743 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.10-19.58.32:796][524]Warning: Starting HotReload took  0.0s.
+[2021.04.10-19.58.36:308][705]CompilerResultsLog: New page: Compilation - Apr 10, 2021, 11:58:36 AM
+[2021.04.10-19.58.36:308][705]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.10-19.58.36:308][705]CompilerResultsLog: Invalidating makefile for SimpleShooterEditor (ShooterCharacter.cpp modified)
+[2021.04.10-19.58.36:308][705]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.10-19.58.36:308][705]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.10-19.58.36:308][705]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.04.10-19.58.36:308][705]CompilerResultsLog:   [1/4] ShooterCharacter.cpp
+[2021.04.10-19.58.36:308][705]CompilerResultsLog:   [2/4] UE4Editor-SimpleShooter-0743.lib
+[2021.04.10-19.58.36:308][705]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-0743.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-0743.exp
+[2021.04.10-19.58.36:308][705]CompilerResultsLog:   [3/4] UE4Editor-SimpleShooter-0743.dll
+[2021.04.10-19.58.36:308][705]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-0743.suppressed.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-0743.suppressed.exp
+[2021.04.10-19.58.36:308][705]CompilerResultsLog:   [4/4] SimpleShooterEditor.target
+[2021.04.10-19.58.36:308][705]CompilerResultsLog: Total time in Parallel executor: 1.64 seconds
+[2021.04.10-19.58.36:308][705]CompilerResultsLog: Total execution time: 3.42 seconds
+[2021.04.10-19.58.36:308][705]LogMainFrame: MainFrame: Module compiling took 3.537 seconds
+[2021.04.10-19.58.36:323][705]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0100 seconds. Added 3605 classes and 861 folders.
+[2021.04.10-19.58.36:323][705]Display: HotReload took  3.6s.
+[2021.04.10-20.00.16:727][258]LogTexture: Display: Building textures: T_SquareMaskTightEdge (AutoDXT, 512X512)
+[2021.04.10-20.00.16:727][258]LogTexture: Display: Building textures: T_Lensflare_01 (AutoDXT, 512X512)
+[2021.04.10-20.00.16:727][258]LogTexture: Display: Building textures: T_muzzle_flashes (AutoDXT, 128X256)
+[2021.04.10-20.00.16:727][258]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.04.10-20.00.16:727][258]LogTexture: Display: Building textures: T_Clouds_01 (AutoDXT, 1024X1024)
+[2021.04.10-20.00.16:727][258]LogTexture: Display: Building textures: T_SmokeBall_01_8_8 (AutoDXT, 1024X1024)
+[2021.04.10-20.00.16:727][258]LogTexture: Display: Building textures: T_TileNoise (AutoDXT, 2048X2048)
+[2021.04.10-20.00.16:727][258]LogMaterial: Display: Missing cached shader map for material M_SmokeBall, compiling. 
+[2021.04.10-20.00.16:766][258]LogStaticMesh: Building static mesh SM_MuzzleCone...
+[2021.04.10-20.00.16:778][258]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2021.04.10-20.00.16:778][258]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2021.04.10-20.00.16:778][258]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.04.10-20.00.16:778][258]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.04.10-20.00.16:778][258]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.04.10-20.00.16:778][258]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.04.10-20.00.16:778][258]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.04.10-20.00.16:791][258]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ShooterGame/Effects/Meshes/Weapon/SM_MuzzleCone.SM_MuzzleCone
+[2021.04.10-20.00.16:895][258]LogMaterial: Display: Missing cached shader map for material M_SoftGradient_Muzzle, compiling. 
+[2021.04.10-20.00.16:909][258]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.04.10-20.00.16:909][258]LogMaterial: Display: Missing cached shader map for material M_ImpactSmoke, compiling. 
+[2021.04.10-20.00.17:012][258]LogMaterial: Display: Missing cached shader map for material M_MuzzleGlow, compiling. 
+[2021.04.10-20.00.17:036][258]LogMaterial: Display: Missing cached shader map for material M_muzzle_flash_subUV, compiling. 
+[2021.04.10-20.00.17:049][258]LogMaterial: Display: Missing cached shader map for material M_Lensflare_01, compiling. 
+[2021.04.10-20.00.17:082][258]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/AssetPacks/ShooterGame/Effects/ParticleSystems/Weapons/AssaultRifle/Muzzle/P_AssaultRifle_MF.P_AssaultRifle_MF
+[2021.04.10-20.00.17:127][258]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.04.10-20.00.17:959][258]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 220
+[2021.04.10-20.00.18:160][259]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 210
+[2021.04.10-20.00.18:273][259]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 200
+[2021.04.10-20.00.18:412][260]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 190
+[2021.04.10-20.00.18:498][260]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 180
+[2021.04.10-20.00.18:595][260]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 170
+[2021.04.10-20.00.18:618][260]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 160
+[2021.04.10-20.00.18:648][260]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 150
+[2021.04.10-20.00.20:472][426]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 140
+[2021.04.10-20.00.21:436][531]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 130
+[2021.04.10-20.00.22:097][586]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 120
+[2021.04.10-20.00.22:458][626]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 110
+[2021.04.10-20.00.22:498][630]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 100
+[2021.04.10-20.00.22:635][646]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 90
+[2021.04.10-20.00.22:701][654]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 80
+[2021.04.10-20.00.22:764][659]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 70
+[2021.04.10-20.00.23:453][734]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 61
+[2021.04.10-20.00.25:008][907]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 53
+[2021.04.10-20.00.25:258][935]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 46
+[2021.04.10-20.00.25:308][939]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2021.04.10-20.00.25:773][990]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2021.04.10-20.00.25:903][  3]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.04.10-20.00.26:164][ 30]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.04.10-20.00.26:559][ 69]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.04.10-20.00.26:669][ 81]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.04.10-20.00.26:919][106]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.04.10-20.00.26:919][106]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.04.10-20.00.27:075][123]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.04.10-20.00.27:278][147]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.04.10-20.00.27:436][162]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.04.10-20.00.27:436][162]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.04.10-20.00.27:436][162]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.04.10-20.00.27:518][166]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.04.10-20.00.27:601][168]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.04.10-20.00.27:712][170]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.04.10-20.00.27:761][171]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.04.10-20.02.33:857][879]LogSlate: Took 0.008051 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.10-20.02.37:341][262]LogRenderer: Reallocating scene render targets to support 1212x708 Format 10 NumSamples 1 (Frame:1).
+[2021.04.10-20.02.48:190][228]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AssetPacks/ShooterGame/Weapons/Rifle.Rifle
+[2021.04.10-20.02.48:202][228]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.04.10-20.02.48:366][228]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.10-20.02.48:372][228]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.04.10-20.02.48:961][229]LogRenderer: Reallocating scene render targets to support 1212x884 Format 10 NumSamples 1 (Frame:1).
+[2021.04.10-20.05.26:317][216]Candidate modules for hot reload:
+[2021.04.10-20.05.26:317][216]  SimpleShooter
+[2021.04.10-20.05.26:317][216]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,4399 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.10-20.05.26:320][216]Warning: Starting HotReload took  0.0s.
+[2021.04.10-20.05.34:380][621]CompilerResultsLog: New page: Compilation - Apr 10, 2021, 12:05:34 PM
+[2021.04.10-20.05.34:381][621]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.10-20.05.34:381][621]CompilerResultsLog: Invalidating makefile for SimpleShooterEditor (Gun.cpp modified)
+[2021.04.10-20.05.34:381][621]CompilerResultsLog: Parsing headers for SimpleShooterEditor
+[2021.04.10-20.05.34:381][621]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\SimpleShooter.uproject" "C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\SimpleShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Ethan Huston\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.04.10-20.05.34:381][621]CompilerResultsLog: Reflection code generated for SimpleShooterEditor in 3.552788 seconds
+[2021.04.10-20.05.34:381][621]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.10-20.05.34:381][621]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.10-20.05.34:381][621]CompilerResultsLog: Building 7 actions with 12 processes...
+[2021.04.10-20.05.34:381][621]CompilerResultsLog:   [1/7] SimpleShooter.init.gen.cpp
+[2021.04.10-20.05.34:381][621]CompilerResultsLog:   [2/7] Gun.gen.cpp
+[2021.04.10-20.05.34:381][621]CompilerResultsLog:   [3/7] ShooterCharacter.cpp
+[2021.04.10-20.05.34:381][621]CompilerResultsLog:   [4/7] Gun.cpp
+[2021.04.10-20.05.34:381][621]CompilerResultsLog:   [5/7] UE4Editor-SimpleShooter-4399.lib
+[2021.04.10-20.05.34:381][621]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-4399.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-4399.exp
+[2021.04.10-20.05.34:381][621]CompilerResultsLog:   [6/7] UE4Editor-SimpleShooter-4399.dll
+[2021.04.10-20.05.34:381][621]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-4399.suppressed.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-4399.suppressed.exp
+[2021.04.10-20.05.34:381][621]CompilerResultsLog:   [7/7] SimpleShooterEditor.target
+[2021.04.10-20.05.34:381][621]CompilerResultsLog: Total time in Parallel executor: 2.50 seconds
+[2021.04.10-20.05.34:381][621]CompilerResultsLog: Total execution time: 7.97 seconds
+[2021.04.10-20.05.34:381][621]LogMainFrame: MainFrame: Module compiling took 8.086 seconds
+[2021.04.10-20.05.34:417][621]LogClass: Could not find existing class Gun in package /Script/SimpleShooter for HotReload, assuming new class
+[2021.04.10-20.05.34:440][621]LogHotReload: Re-instancing Gun after hot-reload.
+[2021.04.10-20.05.34:503][621]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SimpleShooter' in 0.0002 seconds. Added 4 classes and 2 folders.
+[2021.04.10-20.05.34:512][621]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.04.10-20.05.34:657][621]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3608 classes and 865 folders.
+[2021.04.10-20.05.34:657][621]Display: HotReload took  8.4s.
+[2021.04.10-20.05.35:918][672]Cmd: STAT FPS
+[2021.04.10-20.05.38:709][816]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-20.05.38:714][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.10-20.05.38:714][816]PIE: New page: PIE session: Sandbox (Apr 10, 2021, 12:05:38 PM)
+[2021.04.10-20.05.38:715][816]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.10-20.05.38:916][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.201796s)
+[2021.04.10-20.05.38:917][816]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.10-20.05.38:918][816]LogPlayLevel: PIE: World Init took: (0.001499s)
+[2021.04.10-20.05.38:918][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.203662s)
+[2021.04.10-20.05.39:101][816]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2021.04.10-20.05.39:106][816]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.04.10-20.05.39:106][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-20.05.39:106][816]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-20.05.39:106][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-20.05.39:106][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-20.05.39:106][816]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-20.05.39:106][816]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-20.05.39:106][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-20.05.39:106][816]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-20.05.39:106][816]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-20.05.39:106][816]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-20.05.39:113][816]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-20.05.39:113][816]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-20.05.39:122][816]LogAudioMixer: Display: Using Audio Device 3 - Sceptre L24 (AMD High Definition Audio Device)
+[2021.04.10-20.05.39:122][816]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-20.05.39:122][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-20.05.39:122][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-20.05.39:122][816]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-20.05.39:122][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-20.05.39:122][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-20.05.39:133][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-20.05.39:133][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-20.05.39:133][816]LogInit: FAudioDevice initialized.
+[2021.04.10-20.05.39:133][816]LogAudio: Display: Audio Device (ID: 4) registered with world 'Sandbox'.
+[2021.04.10-20.05.39:142][816]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.04.10-20.05.39:187][816]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.10-16.05.39
+[2021.04.10-20.05.39:197][816]LogWorld: Bringing up level for play took: 0.054532
+[2021.04.10-20.05.39:197][816]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.04.10-20.05.39:203][816]PIE: Server logged in
+[2021.04.10-20.05.39:204][816]PIE: Play in editor total start time 0.491 seconds.
+[2021.04.10-20.05.44:405][ 91]Cmd: SELECT NONE
+[2021.04.10-20.05.45:530][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-20.05.45:530][167]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.10-20.05.45:532][167]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-20.05.45:543][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-20.05.45:554][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-20.05.45:564][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-20.05.45:601][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-20.05.45:602][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-20.05.45:602][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-20.05.45:706][167]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.04.10-20.05.45:736][168]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.04.10-20.05.47:934][301]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-20.05.47:939][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.10-20.05.47:939][301]PIE: New page: PIE session: Sandbox (Apr 10, 2021, 12:05:47 PM)
+[2021.04.10-20.05.47:939][301]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.10-20.05.48:132][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.192959s)
+[2021.04.10-20.05.48:133][301]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.10-20.05.48:134][301]LogPlayLevel: PIE: World Init took: (0.001315s)
+[2021.04.10-20.05.48:134][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.194552s)
+[2021.04.10-20.05.48:154][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.04.10-20.05.48:156][301]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.10-20.05.48:156][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-20.05.48:156][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-20.05.48:156][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-20.05.48:156][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-20.05.48:156][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-20.05.48:156][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-20.05.48:156][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-20.05.48:156][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-20.05.48:157][301]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-20.05.48:157][301]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-20.05.48:162][301]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-20.05.48:162][301]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-20.05.48:170][301]LogAudioMixer: Display: Using Audio Device 3 - Sceptre L24 (AMD High Definition Audio Device)
+[2021.04.10-20.05.48:170][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-20.05.48:171][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-20.05.48:171][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-20.05.48:171][301]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-20.05.48:171][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-20.05.48:171][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-20.05.48:182][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-20.05.48:182][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-20.05.48:182][301]LogInit: FAudioDevice initialized.
+[2021.04.10-20.05.48:182][301]LogAudio: Display: Audio Device (ID: 5) registered with world 'Sandbox'.
+[2021.04.10-20.05.48:190][301]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.04.10-20.05.48:235][301]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.10-16.05.48
+[2021.04.10-20.05.48:244][301]LogWorld: Bringing up level for play took: 0.053540
+[2021.04.10-20.05.48:244][301]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.04.10-20.05.48:250][301]PIE: Server logged in
+[2021.04.10-20.05.48:251][301]PIE: Play in editor total start time 0.312 seconds.
+[2021.04.10-20.05.53:500][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-20.05.53:500][684]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.10-20.05.53:502][684]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-20.05.53:512][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-20.05.53:524][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-20.05.53:532][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-20.05.53:551][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-20.05.53:560][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-20.05.53:561][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-20.05.53:585][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.04.10-20.05.53:610][685]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.04.10-20.06.03:753][861]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-20.06.03:753][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-20.06.29:617][899]BlueprintLog: New page: Compile BP_Rifle
+[2021.04.10-20.06.29:659][899]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.04.10-20.06.30:135][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Rifle" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_Rifle.uasset" SILENT=true
+[2021.04.10-20.06.30:141][941]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BP_Rifle6521FC4E44B8AA6156E54FA11CFD3B98.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_Rifle.uasset'
+[2021.04.10-20.06.30:168][941]AssetCheck: New page: Asset Save: BP_Rifle
+[2021.04.10-20.06.30:168][941]LogContentValidation: Display: Validating Blueprint /Game/BP_Rifle.BP_Rifle
+[2021.04.10-20.06.32:423][198]LogCascade: Quitting Cascade. FXSystem=0x0000029CA0484610
+[2021.04.10-20.06.32:430][198]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-20.06.32:430][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-20.06.34:075][341]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-20.06.34:080][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.10-20.06.34:080][341]PIE: New page: PIE session: Sandbox (Apr 10, 2021, 12:06:34 PM)
+[2021.04.10-20.06.34:080][341]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.10-20.06.34:279][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.199394s)
+[2021.04.10-20.06.34:280][341]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.10-20.06.34:281][341]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2021.04.10-20.06.34:281][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.201479s)
+[2021.04.10-20.06.34:310][341]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.04.10-20.06.34:312][341]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.04.10-20.06.34:312][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-20.06.34:312][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-20.06.34:312][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-20.06.34:312][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-20.06.34:312][341]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-20.06.34:312][341]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-20.06.34:312][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-20.06.34:312][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-20.06.34:312][341]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-20.06.34:312][341]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-20.06.34:318][341]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-20.06.34:318][341]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-20.06.34:327][341]LogAudioMixer: Display: Using Audio Device 3 - Sceptre L24 (AMD High Definition Audio Device)
+[2021.04.10-20.06.34:327][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-20.06.34:327][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-20.06.34:327][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-20.06.34:327][341]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-20.06.34:327][341]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-20.06.34:327][341]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-20.06.34:339][341]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-20.06.34:339][341]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-20.06.34:339][341]LogInit: FAudioDevice initialized.
+[2021.04.10-20.06.34:339][341]LogAudio: Display: Audio Device (ID: 6) registered with world 'Sandbox'.
+[2021.04.10-20.06.34:347][341]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.04.10-20.06.34:392][341]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.10-16.06.34
+[2021.04.10-20.06.34:402][341]LogWorld: Bringing up level for play took: 0.054064
+[2021.04.10-20.06.34:402][341]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.04.10-20.06.34:408][341]PIE: Server logged in
+[2021.04.10-20.06.34:409][341]PIE: Play in editor total start time 0.33 seconds.
+[2021.04.10-20.06.46:092][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-20.06.46:092][188]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.10-20.06.46:095][188]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-20.06.46:106][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-20.06.46:115][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-20.06.46:123][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-20.06.46:145][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.10-20.06.46:145][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-20.06.46:146][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-20.06.46:158][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-20.06.46:176][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.04.10-20.06.46:203][189]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.04.10-20.06.47:447][267]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-20.06.47:452][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.10-20.06.47:452][267]PIE: New page: PIE session: Sandbox (Apr 10, 2021, 12:06:47 PM)
+[2021.04.10-20.06.47:452][267]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.10-20.06.47:645][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.192567s)
+[2021.04.10-20.06.47:646][267]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.10-20.06.47:646][267]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2021.04.10-20.06.47:646][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.194232s)
+[2021.04.10-20.06.47:669][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.04.10-20.06.47:669][267]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.04.10-20.06.47:669][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-20.06.47:669][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-20.06.47:670][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-20.06.47:670][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-20.06.47:670][267]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-20.06.47:670][267]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-20.06.47:670][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-20.06.47:670][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-20.06.47:670][267]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-20.06.47:670][267]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-20.06.47:676][267]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-20.06.47:676][267]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-20.06.47:684][267]LogAudioMixer: Display: Using Audio Device 3 - Sceptre L24 (AMD High Definition Audio Device)
+[2021.04.10-20.06.47:684][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-20.06.47:685][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-20.06.47:685][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-20.06.47:685][267]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-20.06.47:685][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-20.06.47:685][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-20.06.47:696][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-20.06.47:696][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-20.06.47:696][267]LogInit: FAudioDevice initialized.
+[2021.04.10-20.06.47:696][267]LogAudio: Display: Audio Device (ID: 7) registered with world 'Sandbox'.
+[2021.04.10-20.06.47:703][267]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.04.10-20.06.47:747][267]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.10-16.06.47
+[2021.04.10-20.06.47:756][267]LogWorld: Bringing up level for play took: 0.052816
+[2021.04.10-20.06.47:757][267]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.04.10-20.06.47:762][267]PIE: Server logged in
+[2021.04.10-20.06.47:763][267]PIE: Play in editor total start time 0.312 seconds.
+[2021.04.10-20.06.50:402][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-20.06.50:402][444]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.10-20.06.50:404][444]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-20.06.50:415][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-20.06.50:420][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-20.06.50:428][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-20.06.50:453][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.10-20.06.50:454][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-20.06.50:454][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-20.06.50:466][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-20.06.50:488][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.04.10-20.06.50:518][445]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.04.10-20.07.14:418][513]LogTexture: Display: Building textures: T_Spark_Soft (AutoDXT, 512X512)
+[2021.04.10-20.07.14:418][513]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.04.10-20.07.14:418][513]LogTexture: Display: Building textures: T_Muzzle_Flash (AutoDXT, 256X512)
+[2021.04.10-20.07.14:418][513]LogTexture: Display: Building textures: T_Sphere_N (BC5, 512X512)
+[2021.04.10-20.07.14:418][513]LogTexture: Display: Building textures: T_Flare_Spikeball (AutoDXT, 1024X1024)
+[2021.04.10-20.07.14:418][513]LogTexture: Display: Building textures: T_Sphere_A (AutoDXT, 512X512)
+[2021.04.10-20.07.14:418][513]LogTexture: Display: Building textures: T_FireBall_07D_Depth (AutoDXT, 2048X2048)
+[2021.04.10-20.07.14:418][513]LogTexture: Display: Building textures: T_FireBall_07D_N (BC5, 2048X2048)
+[2021.04.10-20.07.14:418][513]LogTexture: Display: Building textures: T_PriceSmoke_01_Depth (AutoDXT, 2048X2048)
+[2021.04.10-20.07.14:418][513]LogTexture: Display: Building textures: T_WraithSmoke_01_N (BC5, 2048X2048)
+[2021.04.10-20.07.14:418][513]LogTexture: Display: Building textures: T_noise_flamy_Tile_NRM (BC5, 2048X2048)
+[2021.04.10-20.07.14:419][513]LogMaterial: Display: Missing cached shader map for material M_ResidualMuzzleSmoke_Master, compiling. 
+[2021.04.10-20.07.14:906][513]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 112
+[2021.04.10-20.07.14:906][513]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 102
+[2021.04.10-20.07.14:906][513]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 92
+[2021.04.10-20.07.14:906][513]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 82
+[2021.04.10-20.07.14:906][513]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 72
+[2021.04.10-20.07.14:906][513]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 62
+[2021.04.10-20.07.14:906][513]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 52
+[2021.04.10-20.07.14:906][513]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2021.04.10-20.07.14:906][513]LogMaterial: Display: Missing cached shader map for material M_Shockwave_Refract, compiling. 
+[2021.04.10-20.07.14:941][513]LogMaterial: Display: Missing cached shader map for material M_Lensflare_TB_SoftGlow, compiling. 
+[2021.04.10-20.07.14:959][513]LogStaticMesh: Building static mesh SM_Plasma_Mesh...
+[2021.04.10-20.07.14:990][513]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ParagonWraith/FX/Meshes/Smoke/SM_Plasma_Mesh.SM_Plasma_Mesh
+[2021.04.10-20.07.14:996][513]LogMaterial: Display: Missing cached shader map for material M_Hotdog_Spark_VLerp_MASTER, compiling. 
+[2021.04.10-20.07.15:029][513]LogStaticMesh: Building static mesh SM_Muzzle_Flash...
+[2021.04.10-20.07.15:068][513]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ParagonWraith/FX/Meshes/MuzzleFlashes/SM_Muzzle_Flash.SM_Muzzle_Flash
+[2021.04.10-20.07.15:074][513]LogMaterial: Display: Missing cached shader map for material M_Wraith_Muzzle_Flash, compiling. 
+[2021.04.10-20.07.15:090][513]LogMaterial: Display: Missing cached shader map for material M_Lensflare_TB_Soft, compiling. 
+[2021.04.10-20.07.15:603][513]BlueprintLog: New page: Compile BP_Rifle
+[2021.04.10-20.07.15:660][513]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.04.10-20.07.16:334][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Rifle" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_Rifle.uasset" SILENT=true
+[2021.04.10-20.07.16:343][565]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BP_Rifle0DB46D9B48EFD69B0186E6AAA9FBE26D.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/BP_Rifle.uasset'
+[2021.04.10-20.07.16:379][565]AssetCheck: New page: Asset Save: BP_Rifle
+[2021.04.10-20.07.16:379][565]LogContentValidation: Display: Validating Blueprint /Game/BP_Rifle.BP_Rifle
+[2021.04.10-20.07.16:725][594]BlueprintLog: New page: Compile BP_Rifle
+[2021.04.10-20.07.16:783][594]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.04.10-20.07.17:451][637]BlueprintLog: New page: Compile BP_Rifle
+[2021.04.10-20.07.17:513][637]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.04.10-20.07.17:959][679]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 202
+[2021.04.10-20.07.18:477][709]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 192
+[2021.04.10-20.07.18:593][714]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 182
+[2021.04.10-20.07.18:804][723]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 172
+[2021.04.10-20.07.18:863][726]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 162
+[2021.04.10-20.07.18:886][727]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 152
+[2021.04.10-20.07.18:920][728]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 142
+[2021.04.10-20.07.19:042][733]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.10-20.07.19:050][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.10-20.07.19:050][733]PIE: New page: PIE session: Sandbox (Apr 10, 2021, 12:07:19 PM)
+[2021.04.10-20.07.19:050][733]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.10-20.07.19:328][733]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 132
+[2021.04.10-20.07.19:356][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.306538s)
+[2021.04.10-20.07.19:357][733]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.10-20.07.19:359][733]LogPlayLevel: PIE: World Init took: (0.002310s)
+[2021.04.10-20.07.19:359][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.309395s)
+[2021.04.10-20.07.19:399][733]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.04.10-20.07.19:401][733]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.04.10-20.07.19:401][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.10-20.07.19:401][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.10-20.07.19:401][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.10-20.07.19:401][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.10-20.07.19:402][733]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.10-20.07.19:402][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.10-20.07.19:402][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.10-20.07.19:402][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.10-20.07.19:402][733]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.10-20.07.19:402][733]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.10-20.07.19:411][733]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.10-20.07.19:411][733]LogAudioMixer: Display: 1: FrontRight
+[2021.04.10-20.07.19:424][733]LogAudioMixer: Display: Using Audio Device 3 - Sceptre L24 (AMD High Definition Audio Device)
+[2021.04.10-20.07.19:424][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.10-20.07.19:424][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.10-20.07.19:424][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.10-20.07.19:425][733]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.10-20.07.19:425][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.10-20.07.19:425][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.10-20.07.19:445][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.10-20.07.19:445][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.10-20.07.19:445][733]LogInit: FAudioDevice initialized.
+[2021.04.10-20.07.19:445][733]LogAudio: Display: Audio Device (ID: 8) registered with world 'Sandbox'.
+[2021.04.10-20.07.19:454][733]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.04.10-20.07.19:525][733]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.10-16.07.19
+[2021.04.10-20.07.19:538][733]LogWorld: Bringing up level for play took: 0.083090
+[2021.04.10-20.07.19:538][733]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.04.10-20.07.19:548][733]PIE: Server logged in
+[2021.04.10-20.07.19:549][733]PIE: Play in editor total start time 0.5 seconds.
+[2021.04.10-20.07.21:420][807]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 122
+[2021.04.10-20.07.21:509][812]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 112
+[2021.04.10-20.07.21:517][812]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 102
+[2021.04.10-20.07.21:912][831]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 92
+[2021.04.10-20.07.22:193][845]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 82
+[2021.04.10-20.07.22:193][845]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 72
+[2021.04.10-20.07.22:660][868]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 62
+[2021.04.10-20.07.23:437][904]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 54
+[2021.04.10-20.07.24:347][941]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2021.04.10-20.07.24:612][953]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2021.04.10-20.07.24:745][957]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 35
+[2021.04.10-20.07.24:897][964]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2021.04.10-20.07.24:897][964]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.04.10-20.07.25:419][986]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.04.10-20.07.25:696][998]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.04.10-20.07.25:926][  7]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.04.10-20.07.25:935][  7]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.04.10-20.07.26:054][ 11]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.04.10-20.07.26:157][ 16]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.04.10-20.07.26:204][ 18]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.04.10-20.07.26:352][ 24]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.04.10-20.07.26:489][ 30]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.04.10-20.07.26:500][ 31]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.04.10-20.07.26:542][ 33]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.04.10-20.07.26:549][ 33]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.04.10-20.07.26:645][ 37]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.04.10-20.07.51:084][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-20.07.51:084][927]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.10-20.07.51:086][927]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.10-20.07.51:097][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-20.07.51:108][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.10-20.07.51:117][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.10-20.07.51:141][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.10-20.07.51:141][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-20.07.51:142][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.10-20.07.51:154][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.10-20.07.51:172][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.04.10-20.07.51:219][928]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.04.10-20.08.07:321][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.04.10-20.08.08:376][264]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Sandbox834AADF044740FFCFEF433B7D5B8F81F.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox.umap'
+[2021.04.10-20.08.08:384][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sandbox_BuiltData" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox_BuiltData.uasset" SILENT=true
+[2021.04.10-20.08.08:948][264]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Sandbox_BuiltData5DF2D544477F00CAC96F1B8F15EF3BD2.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox_BuiltData.uasset'
+[2021.04.10-20.08.08:965][264]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.10-20.08.08:965][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sandbox_BuiltData.Sandbox_BuiltData
+[2021.04.10-20.08.08:965][264]LogContentValidation: Display: Validating World /Game/Sandbox.Sandbox
