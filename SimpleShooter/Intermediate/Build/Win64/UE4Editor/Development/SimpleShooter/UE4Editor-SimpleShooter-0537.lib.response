@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SimpleShooter-0537.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\Gun.cpp.obj"
+"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\MyPawn.cpp.obj"
+"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\ShooterCharacter.cpp.obj"
+"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\SimpleShooter.cpp.obj"
+"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\SimpleShooterGameModeBase.cpp.obj"
+"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\Gun.gen.cpp.obj"
+"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\MyPawn.gen.cpp.obj"
+"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\ShooterCharacter.gen.cpp.obj"
+"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\SimpleShooter.init.gen.cpp.obj"
+"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\SimpleShooterGameModeBase.gen.cpp.obj"
+"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\Default.rc2.res"
+/OUT:"C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-0537.lib"
+/INCLUDE:IMPLEMENT_MODULE_SimpleShooter
