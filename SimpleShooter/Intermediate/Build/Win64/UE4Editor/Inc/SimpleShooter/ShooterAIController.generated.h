@@ -60,7 +60,11 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AShooterAIController); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AShooterAIController)
 
 
-#define SimpleShooter_Source_SimpleShooter_ShooterAIController_h_17_PRIVATE_PROPERTY_OFFSET
+#define SimpleShooter_Source_SimpleShooter_ShooterAIController_h_17_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__AcceptanceRadius() { return STRUCT_OFFSET(AShooterAIController, AcceptanceRadius); } \
+	FORCEINLINE static uint32 __PPO__AIBehavior() { return STRUCT_OFFSET(AShooterAIController, AIBehavior); }
+
+
 #define SimpleShooter_Source_SimpleShooter_ShooterAIController_h_14_PROLOG
 #define SimpleShooter_Source_SimpleShooter_ShooterAIController_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
