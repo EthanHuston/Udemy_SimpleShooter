@@ -14,8 +14,16 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define SIMPLESHOOTER_ShooterCharacter_generated_h
 
 #define SimpleShooter_Source_SimpleShooter_ShooterCharacter_h_14_SPARSE_DATA
-#define SimpleShooter_Source_SimpleShooter_ShooterCharacter_h_14_RPC_WRAPPERS
-#define SimpleShooter_Source_SimpleShooter_ShooterCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define SimpleShooter_Source_SimpleShooter_ShooterCharacter_h_14_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execIsDead);
+
+
+#define SimpleShooter_Source_SimpleShooter_ShooterCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execIsDead);
+
+
 #define SimpleShooter_Source_SimpleShooter_ShooterCharacter_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAShooterCharacter(); \
