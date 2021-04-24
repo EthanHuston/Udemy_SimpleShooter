@@ -2201,3 +2201,140 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.24-02.24.49:533][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.04.24-02.24.49:560][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
 [2021.04.24-02.24.49:617][794]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.04.24-02.42.31:717][ 61]Candidate modules for hot reload:
+[2021.04.24-02.42.31:717][ 61]  SimpleShooter
+[2021.04.24-02.42.31:717][ 61]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,8829 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.24-02.42.31:720][ 61]Warning: Starting HotReload took  0.0s.
+[2021.04.24-02.42.37:724][334]CompilerResultsLog: New page: Compilation - Apr 23, 2021, 6:42:37 PM
+[2021.04.24-02.42.37:724][334]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.24-02.42.37:724][334]CompilerResultsLog: Parsing headers for SimpleShooterEditor
+[2021.04.24-02.42.37:724][334]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\SimpleShooter.uproject" "C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\SimpleShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Ethan Huston\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.04.24-02.42.37:724][334]CompilerResultsLog: Reflection code generated for SimpleShooterEditor in 4.1506815 seconds
+[2021.04.24-02.42.37:724][334]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.24-02.42.37:724][334]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.24-02.42.37:724][334]CompilerResultsLog: Building 5 actions with 12 processes...
+[2021.04.24-02.42.37:724][334]CompilerResultsLog:   [1/5] KillEmAllGameMode.cpp
+[2021.04.24-02.42.37:724][334]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\KillEmAllGameMode.cpp(25) : error C2228: left of '.GetPawn' must have class/struct/union
+[2021.04.24-02.42.37:724][334]CompilerResultsLog:   C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\KillEmAllGameMode.cpp(25): note: type is 'AController *'
+[2021.04.24-02.42.37:724][334]CompilerResultsLog:   C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\KillEmAllGameMode.cpp(25): note: did you intend to use '->' instead?
+[2021.04.24-02.42.37:724][334]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\KillEmAllGameMode.cpp(25) : error C2065: 'bIsWinner': undeclared identifier
+[2021.04.24-02.42.37:724][334]CompilerResultsLog:   [2/5] KillEmAllGameMode.gen.cpp
+[2021.04.24-02.42.37:724][334]LogMainFrame: MainFrame: Module compiling took 6.031 seconds
+[2021.04.24-02.42.37:725][334]Warning: HotReload failed, recompile failed
+[2021.04.24-02.43.00:131][843]Candidate modules for hot reload:
+[2021.04.24-02.43.00:131][843]  SimpleShooter
+[2021.04.24-02.43.00:131][843]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,2895 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.24-02.43.00:134][843]Warning: Starting HotReload took  0.0s.
+[2021.04.24-02.43.01:696][883]CompilerResultsLog: New page: Compilation - Apr 23, 2021, 6:43:01 PM
+[2021.04.24-02.43.01:696][883]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.24-02.43.01:696][883]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.24-02.43.01:696][883]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.24-02.43.01:696][883]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.04.24-02.43.01:696][883]CompilerResultsLog:   [1/4] KillEmAllGameMode.cpp
+[2021.04.24-02.43.01:696][883]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\KillEmAllGameMode.cpp(25) : error C2065: 'bIsWinner': undeclared identifier
+[2021.04.24-02.43.01:696][883]LogMainFrame: MainFrame: Module compiling took 1.588 seconds
+[2021.04.24-02.43.01:696][883]Warning: HotReload failed, recompile failed
+[2021.04.24-02.43.14:635][ 30]Candidate modules for hot reload:
+[2021.04.24-02.43.14:635][ 30]  SimpleShooter
+[2021.04.24-02.43.14:636][ 30]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,5945 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.24-02.43.14:640][ 30]Warning: Starting HotReload took  0.0s.
+[2021.04.24-02.43.17:339][147]CompilerResultsLog: New page: Compilation - Apr 23, 2021, 6:43:17 PM
+[2021.04.24-02.43.17:339][147]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.24-02.43.17:339][147]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.24-02.43.17:339][147]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.24-02.43.17:339][147]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.04.24-02.43.17:339][147]CompilerResultsLog:   [1/4] KillEmAllGameMode.cpp
+[2021.04.24-02.43.17:339][147]CompilerResultsLog:   [2/4] UE4Editor-SimpleShooter-5945.lib
+[2021.04.24-02.43.17:339][147]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-5945.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-5945.exp
+[2021.04.24-02.43.17:339][147]CompilerResultsLog:   [3/4] UE4Editor-SimpleShooter-5945.dll
+[2021.04.24-02.43.17:339][147]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-5945.suppressed.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-5945.suppressed.exp
+[2021.04.24-02.43.17:339][147]CompilerResultsLog:   [4/4] SimpleShooterEditor.target
+[2021.04.24-02.43.17:339][147]CompilerResultsLog: Total time in Parallel executor: 1.96 seconds
+[2021.04.24-02.43.17:340][147]CompilerResultsLog: Total execution time: 2.60 seconds
+[2021.04.24-02.43.17:340][147]LogMainFrame: MainFrame: Module compiling took 2.728 seconds
+[2021.04.24-02.43.17:447][147]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SimpleShooter' in 0.0003 seconds. Added 11 classes and 2 folders.
+[2021.04.24-02.43.17:456][147]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.04.24-02.43.17:567][147]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0105 seconds. Added 3612 classes and 861 folders.
+[2021.04.24-02.43.17:567][147]Display: HotReload took  3.0s.
+[2021.04.24-02.43.19:125][205]LogSlate: Window 'Message Log' being destroyed
+[2021.04.24-02.43.19:151][205]LogSlate: Window 'Message Log' being destroyed
+[2021.04.24-02.43.19:605][227]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.24-02.43.19:612][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.24-02.43.19:612][227]PIE: New page: PIE session: Sandbox (Apr 23, 2021, 6:43:19 PM)
+[2021.04.24-02.43.19:612][227]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.24-02.43.19:827][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.214575s)
+[2021.04.24-02.43.19:828][227]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.24-02.43.19:828][227]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2021.04.24-02.43.19:829][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.216256s)
+[2021.04.24-02.43.19:899][227]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2021.04.24-02.43.19:900][227]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.04.24-02.43.19:901][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.24-02.43.19:901][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.24-02.43.19:901][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.24-02.43.19:901][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.24-02.43.19:901][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.24-02.43.19:901][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.24-02.43.19:901][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.24-02.43.19:901][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.24-02.43.19:901][227]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.24-02.43.19:901][227]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.24-02.43.19:907][227]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.24-02.43.19:907][227]LogAudioMixer: Display: 1: FrontRight
+[2021.04.24-02.43.19:907][227]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.24-02.43.19:907][227]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.24-02.43.19:907][227]LogAudioMixer: Display: 4: BackLeft
+[2021.04.24-02.43.19:907][227]LogAudioMixer: Display: 5: BackRight
+[2021.04.24-02.43.19:907][227]LogAudioMixer: Display: 6: SideLeft
+[2021.04.24-02.43.19:907][227]LogAudioMixer: Display: 7: SideRight
+[2021.04.24-02.43.19:955][227]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.24-02.43.19:956][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.24-02.43.19:956][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.24-02.43.19:956][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.24-02.43.19:956][227]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.24-02.43.19:957][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.24-02.43.19:957][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.24-02.43.19:973][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.24-02.43.19:973][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.24-02.43.19:973][227]LogInit: FAudioDevice initialized.
+[2021.04.24-02.43.19:973][227]LogAudio: Display: Audio Device (ID: 15) registered with world 'Sandbox'.
+[2021.04.24-02.43.19:985][227]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.24-02.43.20:043][227]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.23-22.43.20
+[2021.04.24-02.43.20:056][227]LogWorld: Bringing up level for play took: 0.070029
+[2021.04.24-02.43.20:057][227]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.04.24-02.43.20:063][227]PIE: Server logged in
+[2021.04.24-02.43.20:064][227]PIE: Play in editor total start time 0.452 seconds.
+[2021.04.24-02.43.30:328][796]LogNet: Browse: /Game/Sandbox?restart
+[2021.04.24-02.43.30:329][796]LogLoad: LoadMap: /Game/Sandbox
+[2021.04.24-02.43.30:329][796]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.24-02.43.30:331][796]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.24-02.43.30:341][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-02.43.30:419][796]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.24-02.43.30:466][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.04.24-02.43.30:468][796]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.24-02.43.30:686][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.217097s)
+[2021.04.24-02.43.30:687][796]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.24-02.43.30:688][796]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2021.04.24-02.43.30:688][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.218896s)
+[2021.04.24-02.43.30:688][796]LogAudio: Display: Audio Device (ID: 15) registered with world 'Sandbox'.
+[2021.04.24-02.43.30:688][796]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.24-02.43.30:719][796]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.23-22.43.30
+[2021.04.24-02.43.30:729][796]LogWorld: Bringing up level for play took: 0.040206
+[2021.04.24-02.43.30:736][796]LogLoad: Took 0.406754 seconds to LoadMap(/Game/UEDPIE_0_Sandbox)
+[2021.04.24-02.43.37:567][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-02.43.37:567][247]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.24-02.43.37:569][247]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.24-02.43.37:580][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-02.43.37:591][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.24-02.43.37:614][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.24-02.43.37:637][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.24-02.43.37:645][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.24-02.43.37:646][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.24-02.43.37:686][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.04.24-02.43.37:729][248]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.04.24-02.43.48:231][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.04.24-02.43.49:317][779]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Sandbox65446D004F84CEE2F2CB708ECDB3ABAD.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox.umap'
+[2021.04.24-02.43.49:327][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sandbox_BuiltData" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox_BuiltData.uasset" SILENT=true
+[2021.04.24-02.43.49:967][779]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Sandbox_BuiltData3CC3A60C412A15C400F604AD44FDD6FE.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox_BuiltData.uasset'
+[2021.04.24-02.43.50:002][779]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.24-02.43.50:002][779]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sandbox_BuiltData.Sandbox_BuiltData
+[2021.04.24-02.43.50:002][779]LogContentValidation: Display: Validating World /Game/Sandbox.Sandbox
