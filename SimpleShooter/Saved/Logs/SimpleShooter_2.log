@@ -2331,3 +2331,1182 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.29-01.54.21:111][898]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2021.04.29-01.54.21:111][898]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
 [2021.04.29-01.54.21:111][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.03.22:811][112]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.03.22:850][112]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.04.29-02.03.23:041][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.29-02.03.23:041][112]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.03.23:041][112]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.03.23:041][112]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.03.23:049][112]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.04.29-02.03.23:793][112]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.03.23:793][112]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.03.23:793][112]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.03.23:952][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.03.23:952][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.03.23:952][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.03.23:969][114]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.03.23:969][114]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.03.23:969][114]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.03.23:977][115]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.04.00:949][444]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.29-02.04.11:461][648]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_CU_Combat.Idle_AO_CU_Combat
+[2021.04.29-02.04.11:461][648]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_CC_Combat.Idle_AO_CC_Combat
+[2021.04.29-02.04.11:485][648]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_RD_Combat.Idle_AO_RD_Combat
+[2021.04.29-02.04.11:485][648]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_RU_Combat.Idle_AO_RU_Combat
+[2021.04.29-02.04.11:524][651]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_RC_Combat.Idle_AO_RC_Combat
+[2021.04.29-02.04.11:524][651]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_LD_Combat.Idle_AO_LD_Combat
+[2021.04.29-02.04.11:557][653]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_LU_Combat.Idle_AO_LU_Combat
+[2021.04.29-02.04.11:557][653]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_LC_Combat.Idle_AO_LC_Combat
+[2021.04.29-02.04.11:586][655]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_CD_Combat.Idle_AO_CD_Combat
+[2021.04.29-02.04.21:630][707]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/AO/Idle_AO_Combat.Idle_AO_Combat
+[2021.04.29-02.04.21:656][707]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.29-02.04.22:265][707]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.29-02.04.23:922][839]LogSlate: Window 'Idle_AO_Combat' being destroyed
+[2021.04.29-02.05.27:401][391]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.05.27:428][391]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.05.27:428][391]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.05.27:428][391]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.05.27:428][391]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.05.27:428][391]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.05.27:428][391]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.05.27:549][391]LogUObjectHash: Compacting FUObjectHashTables data took   9.69ms
+[2021.04.29-02.05.27:558][391]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.05.27:558][391]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.05.27:558][391]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.05.27:573][392]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.05.27:573][392]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.05.27:573][392]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.05.27:692][393]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.05.27:692][393]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.05.27:692][393]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.05.27:701][394]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_1
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.06.00:583][995]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.06.00:602][995]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.06.00:602][995]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.06.00:602][995]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.06.00:604][995]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.06.00:604][995]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.06.00:604][995]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.06.00:684][995]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2021.04.29-02.06.00:710][995]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.06.00:710][995]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.06.00:710][995]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.06.00:738][996]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.06.00:738][996]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.06.00:738][996]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.06.00:849][997]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.06.00:849][997]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.04.29-02.06.00:849][997]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.04.29-02.06.00:862][998]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterCharacter_C_2
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.04.29-02.07.03:894][234]LogEditorTransaction: Undo Move Node
+[2021.04.29-02.07.03:904][234]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.29-02.07.04:033][234]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.29-02.07.04:977][304]LogEditorTransaction: Undo Add Node
+[2021.04.29-02.07.04:983][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.29-02.07.05:106][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.29-02.07.20:175][824]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.07.20:224][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.04.29-02.07.35:354][573]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.07.35:407][573]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.04.29-02.07.56:246][ 71]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.07.56:295][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.04.29-02.08.52:170][993]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.08.52:223][993]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2021.04.29-02.08.53:118][ 71]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter7EE6629D454F16F6C2D441B7DCF7415E.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.08.53:159][ 71]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.08.53:159][ 71]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.09.22:276][367]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.09.22:329][367]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2021.04.29-02.09.23:037][427]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter5058DC7746EFE207925E209DDCCCB013.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.09.23:077][427]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.09.23:077][427]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.13.06:949][463]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.13.07:005][463]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2021.04.29-02.14.33:348][790]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.14.33:405][790]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2021.04.29-02.14.33:988][833]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter633892AF48C348B327B0A7B5C841A014.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.14.34:033][833]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.14.34:033][833]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.14.36:336][922]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.14.36:342][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.14.36:342][922]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:14:36 PM)
+[2021.04.29-02.14.36:342][922]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.14.36:538][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196274s)
+[2021.04.29-02.14.36:539][922]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.14.36:539][922]LogPlayLevel: PIE: World Init took: (0.001433s)
+[2021.04.29-02.14.36:540][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.198004s)
+[2021.04.29-02.14.36:570][922]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.04.29-02.14.36:571][922]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.04.29-02.14.36:571][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.14.36:571][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.14.36:571][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.14.36:571][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.14.36:571][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.14.36:571][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.14.36:571][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.14.36:571][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.14.36:572][922]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.14.36:572][922]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.14.36:577][922]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.14.36:577][922]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.14.36:577][922]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.14.36:577][922]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.14.36:577][922]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.14.36:577][922]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.14.36:577][922]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.14.36:577][922]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.14.36:619][922]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.14.36:619][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.14.36:619][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.14.36:619][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.14.36:619][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.14.36:619][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.14.36:619][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.14.36:631][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.14.36:631][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.14.36:631][922]LogInit: FAudioDevice initialized.
+[2021.04.29-02.14.36:631][922]LogAudio: Display: Audio Device (ID: 20) registered with world 'Sandbox'.
+[2021.04.29-02.14.36:641][922]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.14.36:688][922]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.14.36
+[2021.04.29-02.14.36:698][922]LogWorld: Bringing up level for play took: 0.056753
+[2021.04.29-02.14.36:699][922]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.04.29-02.14.36:704][922]PIE: Server logged in
+[2021.04.29-02.14.36:705][922]PIE: Play in editor total start time 0.365 seconds.
+[2021.04.29-02.14.45:356][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.14.45:357][601]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.14.45:358][601]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.14.45:369][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.14.45:379][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.14.45:389][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.14.45:421][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.29-02.14.45:421][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.14.45:422][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.14.45:436][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.14.45:449][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.04.29-02.14.45:476][602]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.04.29-02.14.46:296][647]Cmd: SELECT NONE
+[2021.04.29-02.15.26:559][920]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2021.04.29-02.15.45:022][ 64]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.29-02.16.02:765][181]LogBehaviorTree: Warning: Update PlayerLocation If Seen[1]> Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.16.02:765][181]LogBehaviorTree: Warning: Can See Player?[2]> Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.16.02:765][181]LogBehaviorTree: Warning: Move To[6]> Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.16.02:782][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2021.04.29-02.16.02:786][181]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BT_EnemyAI6D1A40A847A98EB4027F73BEB2F6097F.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AI/BT_EnemyAI.uasset'
+[2021.04.29-02.16.02:787][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_EnemyAI" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AI/BB_EnemyAI.uasset" SILENT=true
+[2021.04.29-02.16.02:789][181]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BB_EnemyAI048EBEEE46158B511F20539771763320.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AI/BB_EnemyAI.uasset'
+[2021.04.29-02.16.02:802][181]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.29-02.16.02:802][181]LogContentValidation: Display: Validating BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI
+[2021.04.29-02.16.02:802][181]LogContentValidation: Display: Validating BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2021.04.29-02.16.04:412][372]LogBehaviorTree: Warning: Update PlayerLocation If Seen[1]> Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.16.04:412][372]LogBehaviorTree: Warning: Can See Player?[2]> Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.16.04:412][372]LogBehaviorTree: Warning: Move To[6]> Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.16.09:109][918]LogBehaviorTree: Warning: Update PlayerLocation If Seen[1]> Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.16.09:109][918]LogBehaviorTree: Warning: Can See Player?[2]> Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.16.09:109][918]LogBehaviorTree: Warning: Move To[6]> Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.16.09:123][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2021.04.29-02.16.09:127][918]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BT_EnemyAI9D919E134A55619B308D88A4F02F9B37.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AI/BT_EnemyAI.uasset'
+[2021.04.29-02.16.09:146][918]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2021.04.29-02.16.09:146][918]LogContentValidation: Display: Validating BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2021.04.29-02.16.17:557][482]LogBehaviorTree: Warning: Update PlayerLocation If Seen[1]> Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.16.17:557][482]LogBehaviorTree: Warning: Can See Player?[2]> Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.16.17:573][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2021.04.29-02.16.17:577][482]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BT_EnemyAI170ABDA541B17B86FD37288F625C70F1.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AI/BT_EnemyAI.uasset'
+[2021.04.29-02.16.17:589][482]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2021.04.29-02.16.17:589][482]LogContentValidation: Display: Validating BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2021.04.29-02.16.25:909][ 80]LogBehaviorTree: Warning: Can See Player?[2]> Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.16.25:935][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2021.04.29-02.16.25:939][ 80]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BT_EnemyAI8F63C7FD4611F2118FBDF8B3B45F81D9.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AI/BT_EnemyAI.uasset'
+[2021.04.29-02.16.25:951][ 80]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2021.04.29-02.16.25:951][ 80]LogContentValidation: Display: Validating BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2021.04.29-02.17.20:617][149]Candidate modules for hot reload:
+[2021.04.29-02.17.20:617][149]  SimpleShooter
+[2021.04.29-02.17.20:617][149]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,3081 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.29-02.17.20:620][149]Warning: Starting HotReload took  0.0s.
+[2021.04.29-02.17.23:723][246]CompilerResultsLog: New page: Compilation - Apr 28, 2021, 6:17:23 PM
+[2021.04.29-02.17.23:723][246]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.29-02.17.23:723][246]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.29-02.17.23:723][246]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.29-02.17.23:723][246]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.04.29-02.17.23:723][246]CompilerResultsLog:   [1/4] BTService_PlayerLocationIfSeen.cpp
+[2021.04.29-02.17.23:723][246]CompilerResultsLog:    C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\BTService_PlayerLocationIfSeen.cpp(26) : error C2664: 'void UBlackboardComponent::SetValueAsVector(const FName &,FVector)': cannot convert argument 2 from 'APawn *' to 'FVector'
+[2021.04.29-02.17.23:723][246]CompilerResultsLog:   C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Source\SimpleShooter\BTService_PlayerLocationIfSeen.cpp(26): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+[2021.04.29-02.17.23:723][246]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BlackboardComponent.h(165): note: see declaration of 'UBlackboardComponent::SetValueAsVector'
+[2021.04.29-02.17.23:723][246]LogMainFrame: MainFrame: Module compiling took 3.130 seconds
+[2021.04.29-02.17.23:723][246]Warning: HotReload failed, recompile failed
+[2021.04.29-02.17.48:001][699]Candidate modules for hot reload:
+[2021.04.29-02.17.48:001][699]  SimpleShooter
+[2021.04.29-02.17.48:001][699]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SimpleShooter,7770 SimpleShooterEditor Win64 Development -Project="C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject" "C:/Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/SimpleShooter.uproject"  -IgnoreJunk]
+[2021.04.29-02.17.48:005][699]Warning: Starting HotReload took  0.0s.
+[2021.04.29-02.17.49:496][761]LogSlate: Window 'Message Log' being destroyed
+[2021.04.29-02.17.49:522][761]LogSlate: Window 'Message Log' being destroyed
+[2021.04.29-02.17.51:998][878]CompilerResultsLog: New page: Compilation - Apr 28, 2021, 6:17:51 PM
+[2021.04.29-02.17.51:998][878]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter).
+[2021.04.29-02.17.51:998][878]CompilerResultsLog: Building SimpleShooterEditor...
+[2021.04.29-02.17.51:998][878]CompilerResultsLog: Using Visual Studio 2019 14.28.29334 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.29-02.17.51:998][878]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.04.29-02.17.51:998][878]CompilerResultsLog:   [1/4] BTService_PlayerLocationIfSeen.cpp
+[2021.04.29-02.17.51:998][878]CompilerResultsLog:   [2/4] UE4Editor-SimpleShooter-7770.lib
+[2021.04.29-02.17.51:998][878]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-7770.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-7770.exp
+[2021.04.29-02.17.51:998][878]CompilerResultsLog:   [3/4] UE4Editor-SimpleShooter-7770.dll
+[2021.04.29-02.17.51:998][878]CompilerResultsLog:      Creating library C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-7770.suppressed.lib and object C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-7770.suppressed.exp
+[2021.04.29-02.17.51:998][878]CompilerResultsLog:   [4/4] SimpleShooterEditor.target
+[2021.04.29-02.17.51:998][878]CompilerResultsLog: Total time in Parallel executor: 3.23 seconds
+[2021.04.29-02.17.51:998][878]CompilerResultsLog: Total execution time: 3.89 seconds
+[2021.04.29-02.17.51:998][878]LogMainFrame: MainFrame: Module compiling took 4.003 seconds
+[2021.04.29-02.17.52:081][878]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SimpleShooter' in 0.0003 seconds. Added 11 classes and 2 folders.
+[2021.04.29-02.17.52:089][878]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2021.04.29-02.17.52:196][878]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0094 seconds. Added 3613 classes and 863 folders.
+[2021.04.29-02.17.52:196][878]Display: HotReload took  4.2s.
+[2021.04.29-02.17.54:294][968]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.17.54:304][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.17.54:304][968]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:17:54 PM)
+[2021.04.29-02.17.54:304][968]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.17.54:512][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208212s)
+[2021.04.29-02.17.54:513][968]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.17.54:513][968]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2021.04.29-02.17.54:514][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.209905s)
+[2021.04.29-02.17.54:589][968]LogUObjectHash: Compacting FUObjectHashTables data took   8.32ms
+[2021.04.29-02.17.54:592][968]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.04.29-02.17.54:592][968]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.17.54:592][968]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.17.54:592][968]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.17.54:592][968]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.17.54:592][968]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.17.54:592][968]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.17.54:592][968]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.17.54:592][968]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.17.54:592][968]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.17.54:592][968]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.17.54:598][968]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.17.54:598][968]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.17.54:598][968]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.17.54:598][968]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.17.54:598][968]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.17.54:598][968]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.17.54:598][968]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.17.54:598][968]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.17.54:638][968]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.17.54:639][968]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.17.54:639][968]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.17.54:639][968]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.17.54:639][968]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.17.54:639][968]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.17.54:639][968]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.17.54:651][968]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.17.54:651][968]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.17.54:651][968]LogInit: FAudioDevice initialized.
+[2021.04.29-02.17.54:651][968]LogAudio: Display: Audio Device (ID: 21) registered with world 'Sandbox'.
+[2021.04.29-02.17.54:657][968]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.17.54:702][968]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.17.54
+[2021.04.29-02.17.54:713][968]LogWorld: Bringing up level for play took: 0.055940
+[2021.04.29-02.17.54:713][968]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.04.29-02.17.54:718][968]LogBehaviorTree: Warning: > Failed to find key 'PlayerLocation' in BB asset BlackboardData /Game/AI/BB_EnemyAI.BB_EnemyAI. BB Key Selector will be set to 'Invalid'
+[2021.04.29-02.17.54:720][968]PIE: Server logged in
+[2021.04.29-02.17.54:721][968]PIE: Play in editor total start time 0.421 seconds.
+[2021.04.29-02.18.00:561][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.18.00:561][332]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.18.00:563][332]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.18.00:573][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.18.00:580][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.18.00:591][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.18.00:615][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.29-02.18.00:625][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.18.00:627][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.18.00:640][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.18.00:685][332]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2021.04.29-02.18.00:721][333]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.04.29-02.18.19:634][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2021.04.29-02.18.19:638][ 19]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/BT_EnemyAIF8433FDD46BC706DCBE79282B2CCD280.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/AI/BT_EnemyAI.uasset'
+[2021.04.29-02.18.19:652][ 19]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2021.04.29-02.18.19:652][ 19]LogContentValidation: Display: Validating BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2021.04.29-02.18.23:677][439]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.18.23:685][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.18.23:686][439]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:18:23 PM)
+[2021.04.29-02.18.23:686][439]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.18.23:888][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.202451s)
+[2021.04.29-02.18.23:888][439]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.18.23:889][439]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2021.04.29-02.18.23:889][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.203963s)
+[2021.04.29-02.18.23:920][439]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.04.29-02.18.23:923][439]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.04.29-02.18.23:923][439]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.18.23:923][439]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.18.23:923][439]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.18.23:923][439]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.18.23:923][439]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.18.23:923][439]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.18.23:923][439]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.18.23:923][439]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.18.23:923][439]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.18.23:924][439]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.18.23:929][439]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.18.23:929][439]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.18.23:929][439]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.18.23:929][439]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.18.23:929][439]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.18.23:929][439]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.18.23:929][439]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.18.23:929][439]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.18.23:970][439]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.18.23:970][439]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.18.23:970][439]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.18.23:970][439]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.18.23:970][439]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.18.23:970][439]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.18.23:970][439]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.18.23:982][439]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.18.23:982][439]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.18.23:982][439]LogInit: FAudioDevice initialized.
+[2021.04.29-02.18.23:982][439]LogAudio: Display: Audio Device (ID: 22) registered with world 'Sandbox'.
+[2021.04.29-02.18.23:991][439]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.18.24:038][439]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.18.24
+[2021.04.29-02.18.24:048][439]LogWorld: Bringing up level for play took: 0.056552
+[2021.04.29-02.18.24:048][439]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.04.29-02.18.24:055][439]PIE: Server logged in
+[2021.04.29-02.18.24:056][439]PIE: Play in editor total start time 0.374 seconds.
+[2021.04.29-02.18.39:560][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.18.39:560][571]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.18.39:562][571]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.18.39:573][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.18.39:584][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.18.39:596][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.18.39:633][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.18.39:633][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.18.39:634][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.18.39:663][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.04.29-02.18.39:722][572]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.04.29-02.18.49:854][272]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.18.49:854][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.18.49:911][272]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.18.49:911][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.18.50:570][345]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.18.50:570][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.18.50:582][345]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.18.50:582][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.18.50:649][345]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.18.50:650][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.18.51:364][423]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.18.51:364][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.18.51:375][423]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.18.51:375][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.19.32:358][120]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.19.32:363][120]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.29-02.20.55:408][480]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.20.55:515][480]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.04.29-02.21.02:112][213]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter8121425643C67F721B3CF6A8FC85C477.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.21.02:154][213]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.21.02:154][213]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.21.02:524][256]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.21.02:646][256]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2021.04.29-02.23.15:196][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.04.29-02.23.15:210][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Sandbox' took 0.035
+[2021.04.29-02.23.15:211][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ABP_ShooterCharacter] ([1] browsable assets)...
+[2021.04.29-02.23.15:239][771]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter]
+[2021.04.29-02.23.15:239][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/ABP_ShooterCharacter]
+[2021.04.29-02.23.15:267][771]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter_Auto16D77D3854CFC3C6E926C15BA07F3A51D.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Autosaves/Game/ABP_ShooterCharacter_Auto1.uasset'
+[2021.04.29-02.23.15:269][771]LogFileHelpers: Auto-saving content packages took 0.059
+[2021.04.29-02.23.38:848][919]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.23.38:889][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.04.29-02.25.15:506][374]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/BS_Locomotion.BS_Locomotion
+[2021.04.29-02.25.15:508][374]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.29-02.25.15:781][374]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.29-02.25.25:474][484]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter95DC5C0C46E51AFF485EF082FA53C883.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.25.25:524][484]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.25.25:524][484]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.25.25:679][500]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.25.25:685][500]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Grounded to Airborne  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.25.25:685][500]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Airborne to Grounded  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.25.25:725][500]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.04.29-02.25.34:014][387]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.25.34:020][387]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Grounded to Airborne  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.25.34:021][387]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Airborne to Grounded  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.25.34:056][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.04.29-02.26.24:983][450]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Jump_Apex_Combat.Jump_Apex_Combat
+[2021.04.29-02.26.29:276][945]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.26.29:282][945]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Grounded to Airborne  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.26.29:282][945]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Airborne to Grounded  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.26.29:319][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.04.29-02.26.29:711][976]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter81304BA04F5EC4CA26571AAD277A0CAA.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.26.29:754][976]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.26.29:754][976]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.27.13:369][128]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.27.13:374][128]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Grounded to Airborne  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.27.13:411][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.04.29-02.27.14:741][266]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacterF5E9E9AC49FDAFFAC269759CEFC56E93.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.27.14:787][266]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.27.14:787][266]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.27.17:243][547]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.27.17:243][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.27.17:282][547]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.27.17:282][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.27.42:983][531]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.27.43:031][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.04.29-02.28.53:511][586]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.28.53:552][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.04.29-02.29.13:722][649]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.29.13:762][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.04.29-02.29.15:429][832]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.29.15:468][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.04.29-02.34.41:905][ 88]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacterCEE3B63343FE16B20177C8B55FCB18D2.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.34.41:952][ 88]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.34.41:952][ 88]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.34.42:266][123]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.34.42:308][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.04.29-02.34.45:389][382]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.34.45:395][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.34.45:395][382]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:34:45 PM)
+[2021.04.29-02.34.45:395][382]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.34.45:592][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197383s)
+[2021.04.29-02.34.45:593][382]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.34.45:594][382]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2021.04.29-02.34.45:594][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.199171s)
+[2021.04.29-02.34.45:613][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.04.29-02.34.45:615][382]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.04.29-02.34.45:615][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.34.45:615][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.34.45:615][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.34.45:615][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.34.45:615][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.34.45:615][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.34.45:615][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.34.45:615][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.34.45:615][382]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.34.45:615][382]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.34.45:621][382]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.34.45:621][382]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.34.45:621][382]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.34.45:621][382]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.34.45:621][382]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.34.45:621][382]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.34.45:621][382]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.34.45:621][382]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.34.45:662][382]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.34.45:663][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.34.45:663][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.34.45:663][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.34.45:663][382]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.34.45:663][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.34.45:663][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.34.45:675][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.34.45:675][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.34.45:675][382]LogInit: FAudioDevice initialized.
+[2021.04.29-02.34.45:675][382]LogAudio: Display: Audio Device (ID: 23) registered with world 'Sandbox'.
+[2021.04.29-02.34.45:680][382]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.34.45:727][382]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.34.45
+[2021.04.29-02.34.45:738][382]LogWorld: Bringing up level for play took: 0.057161
+[2021.04.29-02.34.45:738][382]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.04.29-02.34.45:744][382]PIE: Server logged in
+[2021.04.29-02.34.45:745][382]PIE: Play in editor total start time 0.351 seconds.
+[2021.04.29-02.34.50:057][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.34.50:057][722]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.34.50:059][722]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.34.50:069][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.34.50:075][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.34.50:083][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.34.50:108][722]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.29-02.34.50:108][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.34.50:109][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.34.50:123][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.34.50:144][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.29-02.34.50:168][723]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.04.29-02.35.09:713][728]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.35.09:754][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.04.29-02.35.14:986][284]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.35.14:991][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.35.14:991][284]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:35:14 PM)
+[2021.04.29-02.35.15:015][284]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.35.15:226][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.210480s)
+[2021.04.29-02.35.15:227][284]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.35.15:227][284]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2021.04.29-02.35.15:227][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.212131s)
+[2021.04.29-02.35.15:246][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.04.29-02.35.15:248][284]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.04.29-02.35.15:248][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.35.15:248][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.35.15:248][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.35.15:248][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.35.15:248][284]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.35.15:248][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.35.15:248][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.35.15:248][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.35.15:249][284]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.35.15:249][284]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.35.15:254][284]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.35.15:254][284]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.35.15:254][284]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.35.15:254][284]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.35.15:254][284]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.35.15:254][284]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.35.15:254][284]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.35.15:254][284]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.35.15:295][284]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.35.15:295][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.35.15:295][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.35.15:295][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.35.15:295][284]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.35.15:297][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.35.15:297][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.35.15:308][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.35.15:308][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.35.15:308][284]LogInit: FAudioDevice initialized.
+[2021.04.29-02.35.15:308][284]LogAudio: Display: Audio Device (ID: 24) registered with world 'Sandbox'.
+[2021.04.29-02.35.15:315][284]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.35.15:361][284]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.35.15
+[2021.04.29-02.35.15:371][284]LogWorld: Bringing up level for play took: 0.056229
+[2021.04.29-02.35.15:371][284]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.04.29-02.35.15:377][284]PIE: Server logged in
+[2021.04.29-02.35.15:378][284]PIE: Play in editor total start time 0.387 seconds.
+[2021.04.29-02.35.18:656][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.35.18:656][521]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.35.18:658][521]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.35.18:668][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.35.18:674][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.35.18:682][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.35.18:706][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.35.18:706][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.35.18:707][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.35.18:732][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.04.29-02.35.18:762][522]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.04.29-02.35.39:691][532]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter9315BC57472F8A74F16D5181B2C8D23D.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.35.39:738][532]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.35.39:738][532]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.35.40:500][545]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.35.40:540][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.04.29-02.36.05:294][379]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.36.05:336][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.04.29-02.36.05:789][421]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacterEC1101874D818734BCEC99911C5208E0.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.36.05:835][421]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.36.05:835][421]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.36.09:177][758]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.36.09:182][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.36.09:182][758]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:36:09 PM)
+[2021.04.29-02.36.09:182][758]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.36.09:379][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197152s)
+[2021.04.29-02.36.09:380][758]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.36.09:381][758]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2021.04.29-02.36.09:381][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.198819s)
+[2021.04.29-02.36.09:401][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.04.29-02.36.09:402][758]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.04.29-02.36.09:402][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.36.09:402][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.36.09:402][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.36.09:402][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.36.09:402][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.36.09:402][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.36.09:402][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.36.09:402][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.36.09:403][758]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.36.09:403][758]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.36.09:408][758]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.36.09:408][758]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.36.09:408][758]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.36.09:408][758]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.36.09:408][758]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.36.09:408][758]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.36.09:408][758]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.36.09:408][758]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.36.09:449][758]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.36.09:450][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.36.09:450][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.36.09:450][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.36.09:450][758]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.36.09:450][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.36.09:450][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.36.09:462][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.36.09:462][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.36.09:462][758]LogInit: FAudioDevice initialized.
+[2021.04.29-02.36.09:462][758]LogAudio: Display: Audio Device (ID: 25) registered with world 'Sandbox'.
+[2021.04.29-02.36.09:471][758]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.36.09:517][758]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.36.09
+[2021.04.29-02.36.09:527][758]LogWorld: Bringing up level for play took: 0.055846
+[2021.04.29-02.36.09:527][758]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.04.29-02.36.09:533][758]PIE: Server logged in
+[2021.04.29-02.36.09:534][758]PIE: Play in editor total start time 0.353 seconds.
+[2021.04.29-02.36.12:836][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.36.12:836][  1]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.36.12:838][  1]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.36.12:848][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.36.12:857][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.36.12:865][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.36.12:881][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.36.12:889][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.36.12:890][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.36.12:916][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.04.29-02.36.12:941][  2]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.04.29-02.36.25:918][959]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacterAA770A2F4E6170B9B026F79A74DDF842.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.36.25:929][959]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.36.25:929][959]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.36.26:933][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.04.29-02.36.27:987][ 33]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/SandboxC695AB384D4A3BDF5D554A9DEC773C6E.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox.umap'
+[2021.04.29-02.36.28:001][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sandbox_BuiltData" FILE="../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox_BuiltData.uasset" SILENT=true
+[2021.04.29-02.36.28:630][ 33]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/Sandbox_BuiltData0F2695C54BF5256283B033A40B140BC9.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/Sandbox_BuiltData.uasset'
+[2021.04.29-02.36.28:663][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.29-02.36.28:663][ 33]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sandbox_BuiltData.Sandbox_BuiltData
+[2021.04.29-02.36.28:663][ 33]LogContentValidation: Display: Validating World /Game/Sandbox.Sandbox
+[2021.04.29-02.37.22:695][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Jump_Start_Combat.Jump_Start_Combat
+[2021.04.29-02.37.25:270][712]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.37.25:319][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.04.29-02.37.25:908][768]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacterF94E84744A71446C55BBEC8E921F106B.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.37.25:961][768]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.37.25:961][768]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.37.32:672][520]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Jump_Land_Combat.Jump_Land_Combat
+[2021.04.29-02.37.34:953][780]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.37.34:997][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.04.29-02.37.35:428][818]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter1640D5724E22C6573399DD8389DB2E07.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.37.35:475][818]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.37.35:475][818]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.38.00:285][700]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.38.00:328][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.04.29-02.38.01:142][780]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacterAF41B04E45750CD1EFF61D88454EAD94.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.38.01:192][780]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.38.01:193][780]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.38.30:140][171]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.38.30:147][171]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Landing to Grounded  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.38.30:147][171]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Jumping to Airborne  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.38.30:183][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.04.29-02.38.31:217][282]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.38.31:223][282]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Landing to Grounded  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.38.31:223][282]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Jumping to Airborne  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.38.31:259][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.04.29-02.38.31:603][311]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter94151FA349FBD387E669999541CD0ED6.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.38.31:657][311]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.38.31:657][311]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.38.48:874][352]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.38.48:881][352]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Landing to Grounded  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.38.48:917][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.04.29-02.39.18:339][717]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.39.18:346][717]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Landing to Grounded  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.39.18:382][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.04.29-02.40.20:002][410]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.40.20:009][410]LogBlueprint: Warning: [AssetLog] C:\Users\Ethan Huston\source\repos\EthanHuston\Udemy_SimpleShooter\SimpleShooter\Content\ABP_ShooterCharacter.uasset: [Compiler] Landing to Grounded  will never be taken, please connect something to  Can Enter Transition
+[2021.04.29-02.40.20:045][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.04.29-02.40.50:343][956]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.40.50:385][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.04.29-02.40.51:576][ 82]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.40.51:618][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.04.29-02.40.52:146][132]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacterED42B63741687741065AA38EA0F523E4.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.40.52:199][132]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.40.52:199][132]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.41.02:196][238]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.41.02:201][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.41.02:201][238]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:41:02 PM)
+[2021.04.29-02.41.02:202][238]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.41.02:413][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211782s)
+[2021.04.29-02.41.02:414][238]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.41.02:415][238]LogPlayLevel: PIE: World Init took: (0.001836s)
+[2021.04.29-02.41.02:415][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.213999s)
+[2021.04.29-02.41.02:436][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.04.29-02.41.02:439][238]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.04.29-02.41.02:439][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.41.02:439][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.41.02:439][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.41.02:439][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.41.02:439][238]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.41.02:439][238]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.41.02:439][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.41.02:439][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.41.02:439][238]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.41.02:439][238]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.41.02:445][238]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.41.02:445][238]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.41.02:445][238]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.41.02:445][238]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.41.02:445][238]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.41.02:445][238]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.41.02:445][238]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.41.02:445][238]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.41.02:487][238]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.41.02:487][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.41.02:487][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.41.02:487][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.41.02:488][238]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.41.02:488][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.41.02:488][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.41.02:499][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.41.02:499][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.41.02:499][238]LogInit: FAudioDevice initialized.
+[2021.04.29-02.41.02:499][238]LogAudio: Display: Audio Device (ID: 26) registered with world 'Sandbox'.
+[2021.04.29-02.41.02:507][238]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.41.02:555][238]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.41.02
+[2021.04.29-02.41.02:565][238]LogWorld: Bringing up level for play took: 0.057541
+[2021.04.29-02.41.02:565][238]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.04.29-02.41.02:571][238]PIE: Server logged in
+[2021.04.29-02.41.02:572][238]PIE: Play in editor total start time 0.372 seconds.
+[2021.04.29-02.41.07:966][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.41.07:966][620]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.41.07:968][620]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.41.07:979][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.41.07:991][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.41.07:999][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.41.08:023][620]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.29-02.41.08:023][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.41.08:024][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.41.08:038][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.41.08:050][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.04.29-02.41.08:082][621]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.04.29-02.41.20:387][784]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.41.20:430][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.04.29-02.41.21:238][858]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter223849414977349DFE08278AFBC8B721.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.41.21:287][858]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.41.21:287][858]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.41.21:647][901]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.41.21:689][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.04.29-02.41.24:736][209]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.41.24:741][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.41.24:742][209]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:41:24 PM)
+[2021.04.29-02.41.24:765][209]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.41.24:962][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196987s)
+[2021.04.29-02.41.24:963][209]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.41.24:963][209]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2021.04.29-02.41.24:963][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.198676s)
+[2021.04.29-02.41.24:982][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.04.29-02.41.24:983][209]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.04.29-02.41.24:983][209]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.41.24:983][209]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.41.24:983][209]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.41.24:983][209]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.41.24:983][209]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.41.24:983][209]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.41.24:983][209]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.41.24:983][209]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.41.24:984][209]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.41.24:984][209]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.41.24:989][209]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.41.24:989][209]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.41.24:989][209]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.41.24:989][209]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.41.24:989][209]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.41.24:989][209]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.41.24:989][209]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.41.24:989][209]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.41.25:031][209]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.41.25:031][209]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.41.25:031][209]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.41.25:031][209]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.41.25:031][209]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.41.25:031][209]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.41.25:031][209]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.41.25:043][209]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.41.25:043][209]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.41.25:043][209]LogInit: FAudioDevice initialized.
+[2021.04.29-02.41.25:043][209]LogAudio: Display: Audio Device (ID: 27) registered with world 'Sandbox'.
+[2021.04.29-02.41.25:049][209]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.41.25:093][209]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.41.25
+[2021.04.29-02.41.25:103][209]LogWorld: Bringing up level for play took: 0.052740
+[2021.04.29-02.41.25:103][209]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.04.29-02.41.25:109][209]PIE: Server logged in
+[2021.04.29-02.41.25:110][209]PIE: Play in editor total start time 0.369 seconds.
+[2021.04.29-02.41.31:436][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.41.31:436][666]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.41.31:438][666]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.41.31:449][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.41.31:455][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.41.31:464][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.41.31:480][666]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.29-02.41.31:480][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.41.31:481][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.41.31:496][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.41.31:524][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.04.29-02.41.31:550][667]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.04.29-02.42.28:445][146]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.42.28:488][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.04.29-02.42.32:301][554]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter9EE141E7414F348B67E90EA8A431B1E7.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.42.32:353][554]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.42.32:353][554]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.42.37:101][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.42.37:107][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.42.37:107][ 59]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:42:37 PM)
+[2021.04.29-02.42.37:107][ 59]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.42.37:309][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.202480s)
+[2021.04.29-02.42.37:310][ 59]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.42.37:310][ 59]LogPlayLevel: PIE: World Init took: (0.001688s)
+[2021.04.29-02.42.37:311][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.204501s)
+[2021.04.29-02.42.37:331][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.04.29-02.42.37:333][ 59]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.04.29-02.42.37:333][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.42.37:333][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.42.37:333][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.42.37:333][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.42.37:333][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.42.37:333][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.42.37:333][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.42.37:333][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.42.37:334][ 59]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.42.37:334][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.42.37:339][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.42.37:339][ 59]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.42.37:339][ 59]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.42.37:339][ 59]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.42.37:339][ 59]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.42.37:339][ 59]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.42.37:339][ 59]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.42.37:339][ 59]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.42.37:382][ 59]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.42.37:383][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.42.37:383][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.42.37:383][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.42.37:383][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.42.37:383][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.42.37:383][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.42.37:395][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.42.37:395][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.42.37:395][ 59]LogInit: FAudioDevice initialized.
+[2021.04.29-02.42.37:395][ 59]LogAudio: Display: Audio Device (ID: 28) registered with world 'Sandbox'.
+[2021.04.29-02.42.37:401][ 59]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.42.37:449][ 59]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.42.37
+[2021.04.29-02.42.37:459][ 59]LogWorld: Bringing up level for play took: 0.057463
+[2021.04.29-02.42.37:460][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.04.29-02.42.37:466][ 59]PIE: Server logged in
+[2021.04.29-02.42.37:467][ 59]PIE: Play in editor total start time 0.361 seconds.
+[2021.04.29-02.43.10:566][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.43.10:566][545]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.43.10:568][545]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.43.10:579][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.43.10:588][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.43.10:597][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.43.10:613][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.43.10:622][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.43.10:623][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.43.10:662][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.04.29-02.43.10:690][546]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.04.29-02.43.51:519][198]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.43.51:524][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.43.51:524][198]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:43:51 PM)
+[2021.04.29-02.43.51:524][198]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.43.51:729][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.204810s)
+[2021.04.29-02.43.51:730][198]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.43.51:731][198]LogPlayLevel: PIE: World Init took: (0.001472s)
+[2021.04.29-02.43.51:731][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.206575s)
+[2021.04.29-02.43.51:751][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.04.29-02.43.51:757][198]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.04.29-02.43.51:758][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.43.51:758][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.43.51:758][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.43.51:758][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.43.51:758][198]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.43.51:758][198]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.43.51:758][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.43.51:758][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.43.51:758][198]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.43.51:758][198]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.43.51:763][198]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.43.51:763][198]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.43.51:763][198]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.43.51:763][198]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.43.51:763][198]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.43.51:763][198]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.43.51:763][198]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.43.51:764][198]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.43.51:807][198]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.43.51:807][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.43.51:807][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.43.51:807][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.43.51:808][198]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.43.51:808][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.43.51:808][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.43.51:819][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.43.51:819][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.43.51:819][198]LogInit: FAudioDevice initialized.
+[2021.04.29-02.43.51:819][198]LogAudio: Display: Audio Device (ID: 29) registered with world 'Sandbox'.
+[2021.04.29-02.43.51:845][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.43.51:845][198]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.43.51:894][198]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.43.51
+[2021.04.29-02.43.51:905][198]LogWorld: Bringing up level for play took: 0.058903
+[2021.04.29-02.43.51:905][198]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.04.29-02.43.51:912][198]PIE: Server logged in
+[2021.04.29-02.43.51:913][198]PIE: Play in editor total start time 0.389 seconds.
+[2021.04.29-02.44.13:950][236]LogSlate: Window 'SimpleShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.29-02.44.13:965][236]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.44.13:967][236]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.44.13:978][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.44.13:984][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.44.13:992][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.44.14:017][236]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.29-02.44.14:018][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.44.14:018][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.44.14:055][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.04.29-02.44.14:078][237]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.04.29-02.44.51:932][112]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.44.51:990][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.29-02.44.54:876][375]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter85AE075342218BE4A323FEAEBAADC67E.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.44.54:929][375]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.44.54:929][375]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.44.56:191][471]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.44.56:196][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.44.56:196][471]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:44:56 PM)
+[2021.04.29-02.44.56:196][471]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.44.56:393][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196392s)
+[2021.04.29-02.44.56:394][471]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.44.56:395][471]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2021.04.29-02.44.56:395][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.198041s)
+[2021.04.29-02.44.56:414][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.04.29-02.44.56:416][471]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.04.29-02.44.56:416][471]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.44.56:416][471]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.44.56:416][471]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.44.56:416][471]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.44.56:416][471]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.44.56:416][471]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.44.56:416][471]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.44.56:416][471]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.44.56:416][471]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.44.56:416][471]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.44.56:421][471]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.44.56:421][471]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.44.56:421][471]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.44.56:421][471]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.44.56:421][471]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.44.56:421][471]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.44.56:421][471]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.44.56:421][471]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.44.56:461][471]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.44.56:461][471]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.44.56:461][471]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.44.56:461][471]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.44.56:462][471]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.44.56:462][471]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.44.56:462][471]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.44.56:473][471]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.44.56:473][471]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.44.56:473][471]LogInit: FAudioDevice initialized.
+[2021.04.29-02.44.56:473][471]LogAudio: Display: Audio Device (ID: 30) registered with world 'Sandbox'.
+[2021.04.29-02.44.56:482][471]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.44.56:527][471]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.44.56
+[2021.04.29-02.44.56:537][471]LogWorld: Bringing up level for play took: 0.054703
+[2021.04.29-02.44.56:538][471]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.04.29-02.44.56:544][471]PIE: Server logged in
+[2021.04.29-02.44.56:544][471]PIE: Play in editor total start time 0.349 seconds.
+[2021.04.29-02.45.01:787][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.45.01:787][824]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.45.01:789][824]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.45.01:799][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.45.01:808][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.45.01:816][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.45.01:831][824]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.29-02.45.01:832][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.45.01:833][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.45.01:847][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.45.01:875][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.04.29-02.45.01:898][825]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.04.29-02.45.08:991][551]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.45.09:033][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.04.29-02.45.13:561][ 59]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter02719415414F4B568B819C998D286B46.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.45.13:617][ 59]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.45.13:617][ 59]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.45.14:571][126]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.45.14:577][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.45.14:577][126]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:45:14 PM)
+[2021.04.29-02.45.14:577][126]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.45.14:778][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.200110s)
+[2021.04.29-02.45.14:779][126]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.45.14:779][126]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2021.04.29-02.45.14:780][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.201788s)
+[2021.04.29-02.45.14:799][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.04.29-02.45.14:801][126]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.04.29-02.45.14:801][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.45.14:801][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.45.14:801][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.45.14:801][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.45.14:801][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.45.14:801][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.45.14:801][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.45.14:801][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.45.14:801][126]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.45.14:801][126]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.45.14:807][126]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.45.14:807][126]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.45.14:807][126]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.45.14:807][126]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.45.14:807][126]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.45.14:807][126]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.45.14:807][126]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.45.14:807][126]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.45.14:848][126]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.45.14:848][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.45.14:848][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.45.14:848][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.45.14:849][126]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.45.14:849][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.45.14:849][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.45.14:860][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.45.14:860][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.45.14:860][126]LogInit: FAudioDevice initialized.
+[2021.04.29-02.45.14:860][126]LogAudio: Display: Audio Device (ID: 31) registered with world 'Sandbox'.
+[2021.04.29-02.45.14:870][126]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.45.14:915][126]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.45.14
+[2021.04.29-02.45.14:925][126]LogWorld: Bringing up level for play took: 0.053917
+[2021.04.29-02.45.14:925][126]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2021.04.29-02.45.14:931][126]PIE: Server logged in
+[2021.04.29-02.45.14:931][126]PIE: Play in editor total start time 0.355 seconds.
+[2021.04.29-02.45.23:496][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.45.23:496][794]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.45.23:498][794]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.45.23:508][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.45.23:515][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.45.23:523][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.45.23:539][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.45.23:547][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.45.23:548][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.45.23:582][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.04.29-02.45.23:611][795]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2021.04.29-02.47.26:598][216]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.47.26:645][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.04.29-02.47.27:188][267]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacterA1BE7510470B6C9C35DD1891DC54C4AA.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.47.27:243][267]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.47.27:243][267]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.48.55:057][623]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.48.55:110][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.04.29-02.48.55:608][667]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter720FB9264963D2AE317C02A7FC1A68BB.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.48.55:679][667]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.48.55:680][667]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
+[2021.04.29-02.49.26:131][217]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-02.49.26:137][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-02.49.26:137][217]PIE: New page: PIE session: Sandbox (Apr 28, 2021, 6:49:26 PM)
+[2021.04.29-02.49.26:137][217]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.49.26:341][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.203220s)
+[2021.04.29-02.49.26:342][217]LogAIModule: Creating AISystem for world Sandbox
+[2021.04.29-02.49.26:342][217]LogPlayLevel: PIE: World Init took: (0.001375s)
+[2021.04.29-02.49.26:343][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sandbox.Sandbox to /Game/UEDPIE_0_Sandbox.Sandbox (0.204886s)
+[2021.04.29-02.49.26:364][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.04.29-02.49.26:370][217]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.04.29-02.49.26:370][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-02.49.26:370][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-02.49.26:370][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-02.49.26:370][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-02.49.26:370][217]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-02.49.26:370][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-02.49.26:370][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-02.49.26:370][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-02.49.26:371][217]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-02.49.26:371][217]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-02.49.26:377][217]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-02.49.26:377][217]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-02.49.26:377][217]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-02.49.26:377][217]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-02.49.26:377][217]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-02.49.26:377][217]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-02.49.26:377][217]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-02.49.26:377][217]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-02.49.26:420][217]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.29-02.49.26:420][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-02.49.26:420][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-02.49.26:420][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-02.49.26:421][217]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-02.49.26:421][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-02.49.26:421][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-02.49.26:433][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-02.49.26:433][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-02.49.26:433][217]LogInit: FAudioDevice initialized.
+[2021.04.29-02.49.26:433][217]LogAudio: Display: Audio Device (ID: 32) registered with world 'Sandbox'.
+[2021.04.29-02.49.26:443][217]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.04.29-02.49.26:491][217]LogWorld: Bringing World /Game/UEDPIE_0_Sandbox.Sandbox up for play (max tick rate 0) at 2021.04.28-22.49.26
+[2021.04.29-02.49.26:501][217]LogWorld: Bringing up level for play took: 0.058398
+[2021.04.29-02.49.26:502][217]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2021.04.29-02.49.26:508][217]PIE: Server logged in
+[2021.04.29-02.49.26:508][217]PIE: Play in editor total start time 0.372 seconds.
+[2021.04.29-02.49.31:036][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.49.31:036][551]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Sandbox
+[2021.04.29-02.49.31:038][551]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-02.49.31:048][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.49.31:059][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-02.49.31:067][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-02.49.31:084][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-02.49.31:091][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.49.31:092][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.29-02.49.31:120][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.04.29-02.49.31:143][552]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2021.04.29-02.49.52:800][846]BlueprintLog: New page: Compile ABP_ShooterCharacter
+[2021.04.29-02.49.52:847][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.04.29-02.49.53:426][900]LogSavePackage: Moving '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Saved/ABP_ShooterCharacter19A346584CA08D6B6DEBDF860A296F58.tmp' to '../../../../../../Users/Ethan Huston/source/repos/EthanHuston/Udemy_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset'
+[2021.04.29-02.49.53:484][900]AssetCheck: New page: Asset Save: ABP_ShooterCharacter
+[2021.04.29-02.49.53:484][900]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_ShooterCharacter.ABP_ShooterCharacter
